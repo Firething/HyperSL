@@ -1,38 +1,37 @@
-<size=80>VOCÊ FOI EXPULSO</size>\nO servidor foi forçado a interromper a conexão.
-<size=80>DESCONECTADO</size>\nO host especificado não está disponível.
-<size=80>DESCONECTADO</size>\nO ID de conexão especificado não existe.
-<size=80>DESCONECTADO</size>\nO canal especificado não existe.
-<size=80>DESCONECTADO</size>\nServidor está cheio.
-<size=80>DESCONECTADO</size>\nPacote errado recebido.
-<size=80>DESCONECTADO</size>\nConexão perdida (tempo esgotado).
-<size=80>DESCONECTADO</size>\nConexão perdida (tempo esgotado).
-<size=80>DESCONECTADO</size>\nOperação não é suportada.
-<size=80>DESCONECTADO</size>\nVersão do seu jogo é diferente à do servidor.
-<size=80>DESCONECTADO</size>\nConfiguração do servidor inválida.
-<size=80>DESCONECTADO</size>\nO endereço fornecido é inválido ou não pôde ser resolvido.
-<size=80>DESCONECTADO</size>\nUm problema inesperado ocorreu!
-<size=80>ESPERE UM MOMENTO</size>\n<size=35>Estabelecendo conexão...</size>
-<size=80>REINICIANDO PARTIDA</size>\n<size=35>A partida está reiniciando...</size>
-<size=80>ESPERE UM MOMENTO</size>\n<size=35>Carregando tutorial...</size>
-<size=80>VERSÃO INCOMPATÍVEL</size>\nA sua versão do jogo é diferente à do servidor.\n(Cliente - [your]; Servidor - [server])
-<size=80>CONECTANDO</size>\n<size=35>Carregando o nível...</size>
-<size=35>Carregando a instalação...</size>
-<size=80>DESCONECTADO</size>\nUm erro não especificado ocorreu no servidor.
-<size=80>DESCONECTADO</size>\nEste servidor requer autorização dos servidores centrais.
-<size=80>DESCONECTADO</size>\nVocê não está na lista de acesso deste servidor (whitelist).
-<size=80>DESCONECTADO</size>\nVocê foi globalmente banido.
-<size=80>DESCONECTADO</size>\nVocê foi globalmente banido: [reason].
-<size=80>DESCONECTADO</size>\nVocê foi banido deste servidor.
-<size=80>DESCONECTADO</size>\nVocê foi banido deste servidor.\nBanimento expira em: [date] [time]
-<size=80>DESCONECTADO</size>\nSua ficha de autenticação expirou.\nServidor pode ter um horário ou fuso horário inválido definido.\nPor favor, contate um administrador do servidor.
-<size=80>DESCONECTADO</size>\nSua frequência de conexão foi limitada. Tente novamente em alguns segundos.
-<size=80>DESCONECTADO</size>\nServidor não está aceitando conexões da sua localização geográfica.\nO nome do servidor ou sua descrição podem conter mais informações.
-<size=80>DESCONECTADO</size>\nVocê foi expulso por uma modificação do servidor.\n\nMotivo: [reason]\nÉ uma modificação do servidor, não um elemento do jogo em si.\nContate um administrador do servidor para mais detalhes.
-<size=80>DESCONECTADO</size>\nSua ficha de autenticação foi rejeitada pelo servidor.\nPor favor, reinicie o jogo ou entre em contato com o suporte técnico.
-<size=80>DESCONECTADO</size>\nVocê foi banido deste servidor.\nMotivo: [reason]
-<size=80>DESCONECTADO</size>\nVocê foi banido deste servidor.\nO banimento expira em: [date] [time]\nMotivo: [reason]
-<size=80>ESPERE UM MOMENTO</size>\nProcessando a verificação da segurança do servidor...
-<size=80>DESCONECTADO</size>\nFalha ao processar a verificação da segurança do servidor.
-<size=80>DESCONECTADO</size>\nProcessamento de verificação da segurança do servidor foi muito lento.\nPor favor, tente novamente ou contate um administrador do servidor.
-<size=80>ERRO DE AUTENTICAÇÃO</size>\nMensagem do Servidor Central: [message].
-<size=80>DESCONECTADO</size>\nServidor está desligando.
+<Size=80>Target</Size> <!-- entra no servidor que eles tiveram que intervir. -->
+<Size=80>DISRUPÇÃO</Size> \ O host não está disponível.
+<Size=80>DISRUPÇÃO</Size> \ sem conexão -Determinação.
+<Size=80>DISRUPÇÃO</Size> \ canal especificado no canal especificado.
+<Size=80>Satisfeito</Size> \ Completo.
+<Size=80>DISCURSÃO</Size> \ PENTA. \ Npote.
+<Size=80>alojado</Size> \ perdido (tempo exausto).
+<Size=80>alojado</Size> \ perdido (tempo exausto).
+<Size=80>A interrupção</Size> \ em ação não é suportada.
+<Size=80>A interrupção</Size> \ nvesion do seu jogo difere do servidor.
+<Size=80>Disrupção</Size> \ nnonfiguration de um servidor ilegal.
+<Size=80>A interrupção</Size> \ no endereço entregue não é válida ou não pode resolvê-lo.
+<Size=80>Disputado</Size> \ Problema inesperado!
+<Size=80>Espere um momento</Size> \ <Size=35>conecte-se a...</Size>
+<Size=80>Comece a iniciar</Size>
+<Size=80>Aguarde um momento</Size>
+<Size=80>Não é compatível</Size> \ em sua versão de jogo difere da versão do servidor. \n (cliente - [seu]; servidor - [servidor])
+<Size=80>conexão</Size> \ <Size=35>Instale...</Size>
+<Size=80>interrupção</Size> \ erro não especificado ocorre no servidor.
+<Size=80>Interrupção</Size> \ servidor requer uma permissão do servidor central.
+<Size=80>DISRUPÇÃO</Size> \ você não está na lista de login do servidor.
+<Size=80>turb</Size> \ não é proibido em todo o mundo.
+<Size=80>DISRUPÇÃO</Size> \ NYTTY DISPLED MUNDIDADO: Causa.
+<Size=80>Interrupção</Size> \ não é proibido desse servidor.
+<Size=80>Interrupção</Size> \ não é proibido desse servidor.
+<Size=80>O perfil de autenticação de Dol Breaking</Size> \ NSA expirou.
+<Size=80>perturbador</Size> \ A frequência de conexão está definida. Experimente novamente em alguns segundos.
+<Size=80>Interrupção</Size> \ servidor não aceita sua conexão de localização geográfica. Uma descrição do seu nome ou descrição pode ser mais informações.
+<Size=80>Desconecte</Size> \ não emitir o servidor.
+<Size=80>Interrupção</Size> \ NSA proibiu o servidor. Também não há recreação ou comunicação.
+<Size=80>Interrupção</Size> \ não é proibido desse servidor. \n motivo: razões
+<Size=80>Interrupção</Size> \ não é proibido desse servidor.
+<Size=80>Aguarde o momento</Size>
+<Size=80>Desconectado</Size> \ NOD como um processo de verificação de segurança do servidor.
+<Size=80>A interrupção</Size> \ ou o teste de seguro do servidor é muito lento.
+<Size=80>Erro de autenticação</Size> \
+<Size=80>DISRUPÇÃO</Size> \ NSERSIDIDOR.
