@@ -1,10 +1,10 @@
-Nenhuma
-Cartão
-Itens Médicos
+Fio
+Mapa
+Médico
 Rádio
-Armas de Fogo
+Mão
 Granadas
-Itens SCP
-Armas Especiais
+Componente SCP
+Arma especial
 Munição
-Coletes
+Banian
