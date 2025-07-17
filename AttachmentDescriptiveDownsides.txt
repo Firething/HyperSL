@@ -1,2 +1,2 @@
-Laser é visível para outros
-Sem dano adicional para tiros na cabeça
+Laser pode ser visto de outros
+Nenhum dano adicional na cabeça
