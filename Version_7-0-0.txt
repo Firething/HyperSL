@@ -1,5 +1,5 @@
-VOCÊ MORREU
-Pressione {KEYBINDING_INTERACTION} para colocar o <color=yellow>Gerenciador de Armas</color>.
-Pressione {KEYBINDING_INTERACTION} para pegar o <color=yellow>Gerenciador de Armas</color>.
-Este <color=yellow>posto de trabalho</color> já tem um <color=yellow>Gerenciador de Armas</color> de alguém conectado.
-Você precisa de um <color=yellow>Gerenciador de Armas</color> para usar o <color=yellow>posto de trabalho</color>.
+Você está morto
+PO {key Control_warks} "Color = Yellow> Hoo Color".
+"Color = amarelo> representante de armas" {teclado
+Este <Lod = Yellow> está no local de trabalho </ JA> Quando "Color = Yellow> Rifle Manager </H Color Manager" Pessoa com </He Color Manager.
+<olly = amarelo> "cor> arma guiada </stors>" cor = amarelo> local de trabalho </ho pintor.
