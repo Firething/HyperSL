@@ -1,2 +1,8 @@
-# HyperSL
-Tradução brasileira personalizada do SCP:SL usando o HyperTranslate (não usar essa tradução de forma séria)
+# 📑 HyperSL (como instalar)
+1. Vá até os arquivos locais do SCP: SL.
+2. Entre em Translations e apague todos os arquivos em **pt-BR**.
+3. Então extraía os arquivos desse repositório para a pasta **pt-BR**.
+
+Isso é uma tradução paródia (*zoada de propósito kk pra quem não liga pra nada*), **NÃO USE DE FORMA SÉRIA**, ela vai deixar o jogo inteiro sem sentido NENHUM.
+
+~*Firetoga*
