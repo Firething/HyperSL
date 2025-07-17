@@ -1,16 +1,16 @@
-Você agora está disfarçado como [role_name].
-Incapaz de atacar enquanto disfarçado. Segure [key] para remover o disfarce atual.
-Itens segurados como SCP-3114 não podem ser usados.
-Pressione [key] para se comunicar com humanos enquanto disfarçado.
-Este corpo já foi usado como disfarce.
-Você já está disfarçado. Pressione [key] para remover seu disfarce atual.
-Apenas corpos humanos podem ser usados como um disfarce.
-Esta pilha irreconhecível de ossos provavelmente são os restos de <b>[player_name]</b>.
-Você pode usar este corpo para se disfarçar como [role].
-Disfarçar
-Recarga de Sufocação
-Esqueletos No Seu Armário: Seu nome e identidade estão escondidos. Você é apenas uma tela em branco e o mundo é sua musa. Enquanto disfarçado como um humano, sua força básica permite que você mantenha certos objetos — mas a sua falta de músculos notáveis previne você de usar itens efetivamente.
-Pegue Essas Mãos: Solte um turbilhão de ataques leves que lentamente diminuem a vida de qualquer um que tenha atingido. Estas camadas microscópicas de pele supostamente rica em cálcio de alguma forma te fornecem destreza e fortalecem sua determinação, restaurando uma pequena quantidade de Escudo de Hume a cada golpe.
-Sufocação: Agarre-os pelo pescoço e asfixie a vida para fora deles. Olhe em seus olhos quando eles derem seus últimos suspiros. Suas vidas não passam de velas a serem apagadas, levando apenas alguns segundos. Este ataque pode ser interrompido.
-Sob Suas Peles: Roube para si mesmo uma agradável e quente jaqueta (suas peles) ao interagir com o corpo deles. Envolva-se temporariamente no calor e vista-se com seus suculentos ‘trajes de carne’, imitando a habilidade de segurar certos itens. Pressione [key] para remover abruptamente!
-Pressione e segure [key] por mais tempo para remover seu disfarce atual.
+Agora você se esconde como [name].
+Você não pode atacar esconder -se. Deixe [key] para se esconder da punição.
+No caso de elementos de seguro como o STP-3114, não podem ser usados.
+Ao viver, pressione [key] para se comunicar com as pessoas.
+O corpo já foi usado como pele.
+Você já esteve escondido. Pressione [key] para remover a ocultação atual.
+Somente o corpo humano pode ser usado como um obstáculo.
+Esses ossos de pilha discretos provavelmente são <b> [nome] o remanescente de </b>.
+Você pode usar seu corpo para escondê -lo, por exemplo [rolo].
+Esconder
+Melhoria da elegância
+Ossos na cabine: Seu nome e ID serão ocultos. Você está na tela em branco e o mundo é sua memória. Quando você esconde sua pessoa, sua força principal permitirá a segurança - mas a falta de grandes músculos impede o uso de coisas boas.
+Pegue suas mãos: garanta um leve ataque que reduz gradualmente a vida de todos que atingem gradualmente. Em cálcio, as camadas microscópicas da pele revisam, em certa medida, melhorando as habilidades e restaura uma pequena quantidade de tratamento.
+Higiene: Segure o pescoço e a vida. Olhe em seus olhos quando ficar doente. Suas vidas são mais leves, levou apenas alguns segundos. Pode parar de atacar.
+Sua pele sob: a jaqueta charmosa e quente (pele) ao se misturar com cadáveres. Bem -vindo ao calor e imite a capacidade de salvar algumas coisas, veja com um "vestido de carne". Clique no botão de exclusão repentina!
+Pressione e segure [key] para desligar a punição.
