@@ -1,7 +1,7 @@
-Reportar Jogador
-Usuário:\nID do Jogador:\nDescrição:
-Cancelar
-Reportar por quebra de regras do servidor
-Reportar por trapaça ou invasão
-REPORTANDO
-Por favor, aguarde...
+Relate o jogador
+Usuário: NID Player: NDScriptole:
+Organizar
+Relatório sobre regras do servidor
+Descrição da corrupção ou ocupação
+Relatório
+Por favor, aguarde ...
