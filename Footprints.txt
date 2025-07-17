@@ -1,9 +1,9 @@
- (%time% ⏳)
- (+%influence% 👊)
-<color=%factionColor%>%timeDisplay%%influenceDisplay%</color>
-Objetivos completos irão aparecer aqui encima!
-<color=%achieverColor%>%achieverName%</color> matou <color=%victimColor%>%victimName%</color>
-<color=%achieverColor%>%achieverName%</color> machucou <color=%victimColor%>%victimName%</color>
-<color=%achieverColor%>%achieverName%</color> escapou do sítio.
-<color=%achieverColor%>%achieverName%</color> ativou um <b>Gerador</b>
-<color=%achieverColor%>%achieverName%</color> obteve <color=red>%itemName%</color>
+(% Do tempo ⏳)
+ (% De falha 👊)
+<Color =% kitikcolor%>% timedisploloy% ferenayplay% </ t ho color>
+Suba o objetivo disso!
+<Color =% pesquisa%>% atende%>
+<color =% de pesquisa%>% de regressão% </ for color> doença
+<Color =% pesquisa%>% Acesso a% </strong Color> Explore.
+<color =% meet%>% insere% </ t color
+<Color =% meet%>% reunião% </o ho cor> veja <color = red>
