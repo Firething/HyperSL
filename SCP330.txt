@@ -1,22 +1,22 @@
-Doces
-Doce Arco-Íris
-É um pedaço duro de doce de açúcar; recheado com todo tipo de sabor.
-Concede diversos efeitos bônus, incluindo regeneração de saúde, proteção contra danos e AHP.
-Doce Amarelo
-O cheiro avassalador de limão faz você se contorcer um pouco.
-Permite que você se mova mais rápido e que corra mais por um curto período.
-Doce Roxo
-Tem um cheiro suculento de uva. Sua boca começa a salivar.
-Concede resistência temporária a danos e regenera lentamente sua saúde.
-Doce Vermelho
-Um forte aroma de cereja enche a sala. É um pouco… <i>intenso</i> demais.
-Restaura rapidamente sua saúde.
-Doce Verde
-Um cheiro desagradável de ervas emana do doce.
-Fornece uma regeneração duradoura de saúde e imunidade temporária à maioria dos efeitos de status.
-Doce Azul
-Tem um cheiro suave e doce, algo semelhante a um marshmallow.
-Concede uma barra de saúde adicional temporariamente.
-Doce Rosa
-O aroma de morango é tão suave quanto parece.
-- C O N F I D E N C I A L -
+Imposto
+Imposto
+Isso é algo difícil de geléia. Cheio de qualquer gosto.
+Ele fornece efeitos diferentes, com a reciclagem de recuperação saudável, que corrupção, segurança e AHP.
+amarelo
+Os velhos mais velhos duas vezes dão algo para você.
+Permitido se mover rapidamente e correr por um tempo.
+Sabor
+O cheiro de uvas. Sua boca começa a ter thill.
+Permite os danos danificados e lentamente carregam sua saúde.
+Sabor
+Remova salas de cereja fortes. É algo ... é muito pesado.
+Seu reembolso de saúde em breve.
+Balsa
+Os cheiros que não estão felizes com uma suíte.
+Tem uma eliminação temporária do primeiro e em muitos jogos.
+Orelha
+É um cheiro suave e doce, semelhante ao mesmo prato.
+Fornecer relacionamentos temporários de saúde.
+Rosa
+É macio como perto de Starberiano. Como mostrado.
+- c it n f e d e n c c i l -
