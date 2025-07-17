@@ -1,8 +1,8 @@
-PRONTO
-TRANSMITINDO...\nTEMPO RESTANTE: {0}
-TRANSMITINDO...\nMODO BYPASS
-REINICIANDO\n{0}
-ADMINISTRADOR ESTÁ USANDO\nO INTERFONE AGORA
-VOCÊ FOI SILENCIADO PELO ADMINISTRADOR
-DESCONHECIDO
-POR FAVOR, AGUARDE...
+Está pronto
+Broadcast ... \ net Rest: {0}
+Transmissão… \ ignorar
+Re -art n {0}
+O administrador agora usa o interfone
+Você está em silêncio sobre o gerente
+Não sei
+Por favor, aguarde ...
