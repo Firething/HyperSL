@@ -1,19 +1,19 @@
-DÊ ORDENS
-SIGA AS ORDENS
-MESMA PATENTE
-Funcionários Classe-D escaparam
-Cientistas sobreviveram
-Morto por SCP
-Anomalias SCP contidas
-Ogiva Alfa
-Detonada
-Não usada
-A próxima partida iniciará em [time] segundos.
-HABILIDADE ESPECIAL
-CRIAR BURACO
-USAR BURACO
-VOCÊ MORREU
-Você foi morto por
-como
-Passivo
-(escondido)
+Fornecer instruções
+Siga as instruções
+A mesma licença
+A equipe da classe enviou solicitações
+Os cientistas sobreviveram
+O SCP foi morto
+Continham anomalias de SCP
+Alpha Ogiva
+Explosão
+Desempregado
+A próxima reunião começa com [time] segundos.
+Especial
+Vazio
+Vazio
+Você morreu
+Você foi morto
+Como
+Passiva
+(Segredo)
