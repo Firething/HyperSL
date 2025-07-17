@@ -1,17 +1,17 @@
 Volume
-Principal
-Bate-papo por Voz
-Efeitos Sonoros
-Captura de Microfone
+Original
+Falador
+Efeitos sonoros
+Microfone
 Dispositivo
-Configs. de Privacidade
-Ajustar
-Menu Principal
+Configuração
+Para organizar
+Menu principal
 Música
 Interface
-Tema
-Redução de Ruído
-Reduz o ruído de fundo indesejado captado pelo microfone. É altamente recomendável manter esta opção ativada e não deve afetar a qualidade de sua voz.
-Linhas de Voz
-Volume da Voz do SCP-127
-Volume da Voz do SCP-3114
+Lição
+Reduza o som
+Isso reduz o ruído do fundo indesejado preso pelo microfone. Recomenda -se que você não habilite esta opção e não afete sua qualidade de som.
+Linhas de som
+Tampa SCP-127
+Volume SCP-3114
