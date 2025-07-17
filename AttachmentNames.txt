@@ -1,46 +1,45 @@
-Nenhum~Opção padrão sem nenhum efeito aparente.
-Mira de Fábrica~Um par de marcadores de alinhamento que compõem um dispositivo de mira simples e leve.
-Mira Puntiforme~Mira de reflexo sem ampliação com um pequeno ponto iluminado indicando onde mirar.
-Mira Holográfica~Mira sem ampliação com um retículo holográfico. Eficaz em combate à curta distância.
-Mira de Visão Noturna~Mira telescópica acrescentada com um dispositivo de visão noturna.\n Pesada, mas efetiva em todas as condições de iluminação.
-Mira com Contador de Munição~Mira de fábrica integrada com um dispositivo contador de munição.
-Mira Telescópica~Dispositivo de mira pesado que fornece ampliação óptica.\n Perfeito para longas distâncias, mas limita a percepção geral.
-Coronha Padrão~Coronha regular que garante um melhor controle da arma de fogo ao mirar.
-Coronha Estendida~Fornece um melhor controle da arma de fogo ao mirar, mas aumenta o tempo para equipar.
-Coronha Retrátil~Torna a arma de fogo mais compacta, o que aumenta a mobilidade.
-Coronha Leve~Reduz o peso da arma de fogo, mas faz com que seja mais difícil de controlar o coice ao mirar.
-Coronha Pesada~O peso maior diminui a mobilidade, porém faz com que a arma de fogo fique mais estável ao mirar.
-Coronha Redutora de Coice~Coronha equipada com um sistema que tenta dispersar a força entre os tiros individuais.
-Empunhadura~Empunhadura vertical frontal. Deixa mais fácil de lidar com o coice da boca.
-Mira Laser~Fornece um ponto de referência visual sobre o alvo, o que ajuda a atirar sem mirar,\n mas pode facilmente revelar sua posição.
-Lanterna~Fonte de luz ativável. Aumenta o peso total da arma de fogo,\n mas pode ser um salva-vidas em áreas escuras.
-Contador de Munição~Dispositivo contador de munição. Tecnologia experimental que se provou útil,\n especialmente com pentes de alta capacidade.
-Cano Padrão~Cano convencional sem dispositivo de boca.
-Cano Estendido~Melhora o poder de fogo no geral,\n mas contribui para a baixa mobilidade causada pelo aumento do peso e comprimento da arma.
-Silenciador~Supressor de ruído. Reduz o barulho dos tiros,\n mas aumenta o peso e o comprimento da arma de fogo no geral.
-Corta-chamas~Elimina a luz emitida pela boca da arma. Torna mais fácil de atirar na escuridão.
-Freio de Boca~Compensador de coice. Utiliza gases propulsores para reduzir o coice,\n mas aumenta a intensidade acústica dos tiros.
-Reforço de Boca~Aumenta a cadência dos tiros, o que resulta em mais dano por segundo,\n mas a arma se torna mais difícil de controlar.
-Pente FMJ~Pente padrão que contém balas com revestimento de metal completo.
-Pente AP~Pente padrão que contém balas que penetram armaduras.
-Pente JHP~Pente padrão que contém balas de ponta oca.
-Pente FMJ Estendido~Pente estendido que contém balas com revestimento de metal completo.
-Pente AP Estendido~Pente estendido que contém balas que penetram armaduras.
-Pente JHP Estendido~Pente estendido que contém balas de ponta oca.
-Tambor FMJ~Pente com tambor de alta capacidade que contém balas com revestimento de metal completo.
-Tambor AP~Pente com tambor de alta capacidade que contém balas que penetram armaduras.
-Tambor JHP~Pente com tambor de alta capacidade que contém balas de ponta oca.
-Pente FMJ de Baixa Cap.~Pente de baixa capacidade que contém balas com revestimento de metal completo.
-Pente AP de Baixa Cap.~Pente de baixa capacidade que contém balas que penetram armaduras.
-Pente JHP de Baixa Cap.~Pente de baixa capacidade que contém balas de ponta oca.
-Cilindro de 5-Tiros~Possui menos cartuchos, mas é capaz de infligir mais dano a inimigos com armadura.
-Cilindro de 6-Tiros~Os clássicos seis tiros.
-Cilindro de 7-Tiros~Cheio de cartuchos parecidos aos de uma espingarda. Eficiente em menores distâncias.
-Receptor da Carabina~Receptor regular superior da carabina que é considerado\n uma boa harmonização entre poder de fogo e mobilidade.
-Receptor do Rifle~Receptor superior de tamanho maior que aumenta o poder de fogo e a precisão,\n mas um sistema de gás pesado reduz a cadência dos tiros.
-Cano Curto~Versão menor do cano padrão, usada para melhorar a velocidade de manejo e mobilidade.
-Estrangulador~Aumenta o raio de dispersão, mas melhora a consistência do padrão.
-Cano Estendido~Reduz um pouco o raio de dispersão, mas aumenta o peso e comprimento da arma.
-Sem Coronha~Configurações curtas vêm com grande mobilidade,\n mas remover a coronha de um rifle com alto coice torna muito difícil de mirar eficientemente.
-Sistema de Disparo Único~Sistema padrão. Um puxão de gatilho causa um único disparo.
-Sistema de Disparo Duplo~Mecanismo de gatilho modificado que aciona os dois gatilhos com um único puxão.
+Não há nada a combinar.
+A fábrica leva a uma medida simples e fácil.
+O objetivo de atrair continua a tomar, para absorver essa aparência, a tomar.
+Objetivo holográfico -ragopicp não é uma extensão. Funciona para adicionar curta distância.
+Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tomb Tom para Etsek Gou Gahitu.
+Meera United Midit e Link de emergência e ferramenta de pagamento para o dispositivo.
+Telescópico no mecanismo \ n é perfeito por um longo tempo, mas eles estabeleceram um limite.
+O usuário (controle de incêndio tem boa governança e boa governança.
+O estoque roubado remove o incêndio quando as armas de fogo, mas aumentam o tempo.
+O tradutor de estoque aumenta o movimento.
+Jogos Hight • Reduza a plataforma de incêndio, mas é mais difícil controlar o gabarito.
+O movimento excessivo muito pesado ~ diminui, mas quando você tem como alvo, cria armas de fogo muito fixo.
+Goed Bolpezer Bolpezer político Polic ~ Stocment O Livro de Sofia de Sofia após golfe exclusivo.
+Vime ~ Frente verticalmente. Isso facilita a administração do acordo da boca.
+A luta a laser ~ fornece referência visual ao objetivo, que ajuda a atirar sem objetivos, mas sua posição pode ser facilmente expressa.
+Descrição ~ Fonte de luz ativa. O peso da arma aumenta, mas as áreas escuras podem ser uma cópia de.
+O dispositivo em estupidez tecnológica é útil, especialmente com o desempenho.
+Tubo tradicional ~ tubo comum sem equipamento oral.
+As bombas expandem o fogo avançado, mas promovem o menor movimento causado por um aumento no comprimento da arma.
+Sildacer ~ Remova o ruído. Reduz as tendas, mas geralmente aumenta o peso e o comprimento da arma.
+Remova a luz que segue pela boca de armas de fogo. Isso torna mais fácil jogar fora a escuridão.
+O freio do livro ~ é contra a criança. Uso gases práticos para reduzir o baú, mas aumenta a gravidade do alcance.
+Fmj ~ pente com bala completa para o Metallic em geral.
+O pente com uma bala profunda.
+JHP CANCO ~ padrão padrão com irregularidades ocas.
+Extensão FMJ ~ Adicione o pente com uma bala de revestimento de metal completo.
+O pente foi expandido ~ exceto a bala do pára -choques.
+Adicione o JHP contido no ponto oco oco.
+Fmj ~ tambor de alto potencial com esferas de aço completo.
+Ap ~ tambor com uma grande capacidade com um para -choque.
+JHP ~ O tambor de grande capacidade com anormalidades ocas.
+O chapéu inferior. ~ Cabelo baixo com casaco de ferro completo.
+O chapéu inferior. ~ Codificação baixa com balas de pára -choques.
+Baixa capacidade. ~ Capacidade mínima com pontos abertos.
+O cilindro tem uma pequena vínculo 5, mas pode causar danos aos inimigos com os braços.
+6-sylinder ~ seis fotos clássicas.
+Use 7 cilindros ~ preenchidos com carros que foram preenchidos de tiros. Pelo menos efetivamente.
+Relatório \ n \ n \ n \ n \ n \ n \ n \ n \ n \ n \ n \ n \ n \ n \ n \ n \ n \ n \ n.
+Eu sei, que inclui bombeiro e a verdade: reduz o sistema de gás máximo.
+Uma parte curta de uma peça curta usada para melhorar a atividade e a liderança de velocidade.
+Constor e radial radial radial, mas melhore a continuação padrão.
+O PYP ~ reduz um comprimento permanente do raio, mas adiciona peso e comprimento do dispositivo.
+Sem campos de batalha curtos com grande movimento, ele bloqueia o topo das armas de trânsito.
+Sistema de tiro exclusivo ~ sistema padrão. Girando uma linha de uma única linha.
+O sistema de reivindicação dupla são dois métodos táticos de táticas que são apropriadas para incentivar duas apropriadas.
