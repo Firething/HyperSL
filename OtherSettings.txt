@@ -1,30 +1,30 @@
-Rastr. de Usuários no Server-side
+Recomendado. Usuários do lado do servidor
 Aceitar
-Rejeitar (DNT)
-Se rejeitado, proíbe servidores verificados de usar seus dados (endereço IP, ID do usuário, etc.) para fins não relacionados à segurança do servidor. Alguns recursos específicos do servidor (como classificações, sistemas de nivelamento e similares) não funcionarão corretamente.
-Rich Presence
-Permite que as plataformas (Steam e Discord) exibam mais informações sobre seu status atual no jogo.
-Visibilidade do Lobby na Steam
-Os lobbies públicos permitem que outros usuários entrem no servidor por meio do seu perfil da Steam.
-Configs. de Privacidade do Bate-Papo por Voz
-Perfil na Lista
-Permite que jogadores visualizem seu perfil da Steam clicando em um ícone na lista de jogadores.
-Exibido
-Escondido
-Privado
+Cancelar (DNA)
+Se você desistir, pare os servidores certificados para usar seus dados (identificador de usuário, etc.) para fins de segurança. Algumas funções especiais do servidor (classificações, sistemas de nível e, portanto, não funcionarão corretamente.
+Fortuna
+O jogo permite que as plataformas (vapor e distúrbios) mostrem mais informações sobre sua situação atual.
+Aparência do lobby em vapor
+Halls públicos permitem que outros usuários sejam enviados ao servidor com o perfil Steam.
+Configray. A confidencialidade do bate -papo sonoro
+O perfil da lista
+Os jogadores permitem que os jogadores vejam os jogadores clicando nos jogadores.
+Especificado
+Segredo
+Individual
 Público
-As alterações ocorrerão na próxima vez que você se conectar a um servidor (ou nos reinícios de partida)
-Apenas Amigos
+Você estará conectado a um servidor na próxima vez (ou reinicialização inicial)
+Apenas amigos
 Privacidade
-Preferências de Nasc. como SCP
-As preferências de nascimento são usadas para melhorar a atribuição automática das classes de SCP entre os aliados. Observe que isso não afeta suas chances de se tornar um SCP ao invés de um humano.
-Preferências de Insígnia
-Sem Preferência
-Preferir Insígnia Global
-Preferir Insígnia Local
-Preferências de Visibilidade de Insígnia Global
-Preferências de Visibilidade de Insígnia Local
-Não Participar como SCP
-Se ativado, você não poderá nascer como um SCP. No entanto, caso não haja jogadores o suficiente que querem participar como SCPs, você pode ainda nascer como um.
-Participar
-Não Participar
+Os benefícios do nascimento. Corporal
+O uso de vantagens de nascimento é usado para melhorar as tarefas automáticas na classe SCP em suporte. Deve -se notar que essa é uma medida no lugar de uma pessoa não afeta suas perspectivas.
+Vantagens de Ibadion
+Contínuo
+Prefere pesquisas gerais
+Prefira crachás locais
+Visão global insina
+Parecendo certo
+Não participe como SCPK
+Se você estiver ativado, não poderá obter como CCP. No entanto, se houver jogadores suficientes que desejam participar como CQBPP, você ainda pode nascer como um.
+Participar de
+Você não comparece
