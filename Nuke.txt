@@ -1,4 +1,4 @@
-<size=1800><color=red>DESATIVADA</color></size>
-<color=red><size=2000>POR FAVOR, ESPERE</size></color>
-<color=green><size=1800>PRONTA</size></color>
-DETONAÇÃO INEVITÁVEL
+<Size=1800><Color=red>de -divina</Color></Size>
+<Color=red><Size=2000>Stay</Size></Color>
+<Color=green><Size=1800>pronto</Size></Color>
+Explosão
