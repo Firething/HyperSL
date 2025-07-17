@@ -1,91 +1,91 @@
-AMPLIADO EM [amount]x
-NÍVEL DE ACESSO [tier]
-EXP [current] / [next]
-NÍVEL MÁX. OBTIDO
-SEM CÂMERA
-IR PARA: [camera] ([cost])
-ENERGIA AUX. INSUFICIENTE
-ETA: [time] segundos
-NÍVEL MAIOR REQUERIDO
-CÂMERA INVÁLIDA
-ACESSO À PORTA NEGADO
-ABRIR PORTA ([cost])
-FECHAR PORTA ([cost])
-TRANCAR PORTA ([cost])
-DESTRANCAR PORTA
-TRANCA-PORTA EM RECARGA
-ENERGIA AUXILIAR
-VOCÊ ESTÁ SENDO ATACADO!
-LIBERAR TODAS AS PORTAS
-ABRIR MAPA DA INSTALAÇÃO
-FECHAR
-ZONA DE CONTENÇÃO LEVE
-ZONA DE CONTENÇÃO PESADA
-ZONA DE ENTRADA
-ZONA DE SUPERFÍCIE
-BLECAUTE ([cost])
-BLECAUTE INDISPONÍVEL NESTA SALA
-LIMITE DE BLECAUTES SIMULTÂNEOS ATINGIDO
-BLECAUTE DE SALA EM RECARGA
-ENVIAR ELEVADOR ([cost])
-CONFINAMENTO ([cost])
-CONFINAMENTO EM RECARGA
-S/ PORTAS DISPONÍVEIS PARA CONFINAMENTO
-INDICAR LOCAL ([cost])
-LIMITE DE INDICAÇÕES ATINGIDO
-FALHA NA TROCA DE CÂMERA
-SINAL PERDIDO
-RECONECTANDO (EM: [time]s)
-DISPARAR PORTÃO TESLA ([cost])
-ATIVAÇÃO DO PORTÃO TESLA EM RECARGA
-$Nível de Acesso [tier]$ - DESBLOQUEADO
-Limite da $ENERGIA AUXILIAR$ aumentado para $[limit]$.
-$BLECAUTE$ disponível - pressione $[key]$ para desativar as luzes da sala.
-Capacidade do $BLECAUTE$ aumentou para $[number]$ salas.
-$CONFINAMENTO$ disponível - pressione $[key]$ para temporariamente trancar todas as portas em uma sala.
-+[amount] EXP - Comando Administrativo
-+[amount] EXP - Assistência na terminação de [role]
-+[amount] EXP - Terminação direta de [role]
-+[amount] EXP - Testemunhou a terminação de [role] por um aliado
-+[amount] EXP - Assistência à perseguição de um aliado
-+[amount] EXP - Proteção de aliado(s)
-+[amount] EXP - Preveniu o uso da Micro H.I.D.
-ALIMENTAÇÃO DA CÂMERA ATIVA
-BLECAUTE DE ZONA ([cost])
-$BLECAUTE DE ZONA$ disponível - ao lado das designações de zona no $Mapa da Instalação$.
-BLECAUTE DE ZONA EM RECARGA
-BLECAUTE JÁ ATIVO
-BLECAUTE INDISPONÍVEL PARA ESTA ZONA
-FORMAS DE VIDA TOTAIS
-ALVOS
-ANOMALIAS SCP
-CIVIL
-MILITAR
-USAR ALTO-FALANTE
-ACESSO AO ELEVADOR NEGADO
-SCP-079 não possui capacidade de combate direto ou locomoção. Em vez disso, você vê o mundo através de câmeras de segurança encontradas em todos os lugares. Todas as habilidades disponíveis estão listadas no canto superior direito de sua interface.
-Virtualmente Indestrutível:Há três geradores distribuídos na Zona de Contenção Pesada. Caso todos sejam ativados, você poderá ser recontido na sua câmara. Geradores têm uma sequência de contagem regressiva que pode ser interrompida pressionando o botão de 'CANCELAR' em cada gerador.
-Acesso Ilimitado:Você pode manipular inúmeros sistemas na instalação para auxiliar seus companheiros SCPs. O canto superior direito de sua tela mostra quais habilidades estão disponíveis. Estas habilidades custam energia auxiliar (EA) para serem usadas, se regenerando com o tempo.
-Aprendizagem Profunda:Cooperar com assassinatos ou realizar ações úteis para os outros SCPs concederá a você experiência (EA) para alcançar melhores níveis de acesso. Cada novo nível fornece mais EA e novas habilidades são concedidas.
-Vigilância:Estar em todos lugares e em nenhum lugar lhe garante uma perspectiva única. Você pode indicar locais, pessoas e objetos de interesse, permitindo que você ajude no massacre.
-$SENSOR DE BRECHA$ atualmente disponível — selecione classe(s)/zona(s) no $Mapa da Instalação$ para verificar periodicamente por sobreviventes restantes
-REGEN. DE ENERGIA SUSPENSA
-REGEN. DE ENERGIA REDUZIDA EM ([precentage])
-Tranca de Porta ativa
-Alto-falante em uso
-Confinamento em progresso
-SENSOR DE BRECHA
-RETORNAR PARA O MAPA
-Sensor de Brecha - [cnt] zona(s)
-ZONAS SELECIONADAS: [cnt]
-SELECIONE ZONAS PARA ESCANEAR
-Resultado do Sensor: $Nenhum alvo imóvel detectado$.
-Tentando novamente em [time] segundos...
-Resultado do Sensor: $[role]$ detectado em ‘$[camera_name]$’ ([zone]).
-PRÓXIMA VERIFICAÇÃO: [time] s
-Escaneando…
-SEQUÊNCIA DE VERIFICAÇÃO SUSPENSA
-SELECIONE CLASSES PARA DETECTAR
-O Sensor de Brecha detecta alvos restantes que permanecem em uma mesma área por um longo período de tempo.
-Selecione no mínimo um filtro para continuar!
-$TRANCA-PORTA$ atualmente disponível - pressione $[key]$ em uma porta específica para trancá-la temporariamente.
+<Quantidade>x</Quantidade>
+<Visite>Nível [Tiger]</Visite>
+<Exp>[atual] / [Next]</Exp>
+<NívelMáximo>pegar</NívelMáximo>
+<Câmara>de comércio</Câmara>
+<VáPara>[câmera] ([<Custo>custo</Custo>])</VáPara>
+<Auxiliar>Inadequado</Auxiliar>
+<ETA>[tempo]</ETA>
+<Nível>Precisa de um nível maior</Nível>
+<Câmera>Inválida</Câmera>
+<Visite>Aqueles que são negados</Visite>
+<Porta status="aberta">([<Custo>custo</Custo>])</Porta>
+<Porta status="fechada">([<Custo>custo</Custo>])</Porta>
+<Porta status="bloqueio">([<Custo>custo</Custo>])</Porta>
+<Ação>Abra a fechadura</Ação>
+<Comando>reiniciar</Comando>
+<Comando>ajuda</Comando>
+<Alerta>⚠️ Você está sob ataque!</Alerta>
+<Ação>Libere todas as portas</Ação>
+<Ação>Abra o cartão de instalação</Ação>
+<Encerramento>encerramento</Encerramento>
+<Área>Lugares que contêm luz</Área>
+<Área>Área Chongyuan</Área>
+<Área>Área de entrada</Área>
+<Item>erva</Item>
+<Blecaut>([<Custo>custo</Custo>])</Blecaut>
+<Blecaut status="indisponível">não está disponível nesta sala</Blecaut>
+<Restrição>Ao mesmo tempo, restrições de madeira</Restrição>
+<Item>Quartão</Item>
+<Ação>Enviar elevador ([<Custo>custo</Custo>])</Ação>
+<Ação>Incluir ([<Custo>custo</Custo>])</Ação>
+<Comando>Reiniciar</Comando>
+<Alerta>Sem lacuna de prisão</Alerta>
+<Exibição>Localização da exibição ([<Custo>custo</Custo>])</Exibição>
+<Limite>O limite de instruções direcionais</Limite>
+<Aviso>Não mude a câmera</Aviso>
+<Status>perda</Status>
+<Conexão>(a: [tempo]s)</Conexão>
+<PortaEspecial>TSLA GATE ([<Custo>custo</Custo>])</PortaEspecial>
+<Tesla>Aktivar carregamento</Tesla>
+<Acesso>Nível de acesso <Camada>$[camada]$</Camada> - Lock</Acesso>
+<Ajuda>energética - imit <Rose>$[limite]$</Rose></Ajuda>
+<Comando>$blencut$: pressione a tecla <Key>$[key]$</Key> para eliminar a luz da sala.</Comando>
+<Status>$blecaut$ capacidade <Num>$[número]$</Num> subiu para $.</Status>
+<Comando>$Fechar$: pressione a tecla <Key>$[key]$</Key> para bloquear temporariamente todas as portas da sala.</Comando>
+<SUM>Equipe de Adminsititação de App</SUM>
+<SUM>Exp - Auxílio acabamento <User>[Ceyer]</User></SUM>
+<SUM>[Uma soma] indica exp <Função>[função]</Função></SUM>
+<SUM>Exp - Seja correspondente a demissões enviadas por fumar <User>[Roller]</User></SUM>
+<SUM>frase - ajude a perseguição de aliados</SUM>
+<SUM>Exp - Proteger aliados</SUM>
+<SUM>Exp - Prevenção Micro H.I.D.</SUM>
+<Status>Força positiva da sala</Status>
+<Área>Blecaut ([<Custo>custo</Custo>])</Área>
+<Nota>$Blecaut$ ificant - Instale $ próximo à área mencionada perto do mapa.</Nota>
+<Área>Blecaut Re-Recharga Área</Área>
+<Status>Já ativo</Status>
+<Status>A fumaça nesta área não está disponível</Status>
+<Info>Número total de formas de vida</Info>
+<Info>meta</Info>
+<Info>A exceção do SCP</Info>
+<Info>civil</Info>
+<Info>exército</Info>
+<Info>alto-falante</Info>
+<Aviso>Acesso ao elevador errado</Aviso>
+<Nota>O SCP-079 não tem uma batalha ou movimento direto. Em vez disso, você vê o mundo através de câmeras de segurança que pode ver em qualquer lugar. Todas as habilidades disponíveis aparecem no canto superior esquerdo da interface.</Nota>
+<Nota>Quase ilegal: três geradores são organizados em grande distração. Se tudo estiver ligado, você pode reiniciá-lo no seu telefone. O gerador possui uma sequência de números traseiros que podem ser interrompidos clicando no botão de cancelamento em qualquer gerador.</Nota>
+<Nota>Abordagem ilimitada: você pode gerenciar muitos sistemas de instalação para ajudar seus membros do SCPS. O canto superior esquerdo da tela mostra quais habilidades estão disponíveis. Essas habilidades são energia auxiliar (EA), recuperando com o tempo.</Nota>
+<Nota>No treinamento -Surage com casos de homicídio ou executar operações úteis para outros SCPs fornecerá um melhor nível de acesso. Cada novo nível oferece mais EAS e novas habilidades.</Nota>
+<Nota>Observação: isso está em toda parte e não garante que você tenha uma perspectiva única em todos os lugares. Você pode apontar lugares, pessoas e interesses que permitem ajudar o Holocausto.</Nota>
+<Sensor>$cessação$ disponível neste momento - $selecione uma categoria/região na instalação$ <Cartões>$deleção</Cartões> periodicamente para descobrir o que permanece ainda disponível</Sensor>
+<Regeneração>Energia de energia</Regeneração>
+<Regeneração>Reduzir a energia para ([<Custo>caro</Custo>])</Regeneração>
+<Status>Trava ativa da porta</Status>
+<Status>Dinâmica usada</Status>
+<Status>Detenção durante este processo</Status>
+<Status>brecha</Status>
+<Ação>Voltar ao cartão</Ação>
+<Sensor>Sensor de dano - [cnt] espaço(s)</Sensor>
+<Área>Selecionada: [CNT]</Área>
+<Ação>Escolha na área de varredura</Ação>
+<Resultado>Sensor: Não é possível encontrar $imobiliário$.</Resultado>
+<Resultado>Tente novamente em alguns segundos em [<Equipe>equipe</Equipe>]...</Resultado>
+<Resultado>Sensor: <Valor>$[roll]$</Valor> está em "<Câmera>$[camema_name]$</Câmera>" ([área]).</Resultado>
+<Teste>Próximo teste: [tempo] com</Teste>
+<Ação>Scan...</Ação>
+<Ordem>A ordem de suspensão</Ordem>
+<Ação>Escolha uma aula para descoberta</Ação>
+<Nota>Os sensores de vaca descobriram outros destinos que permanecem na mesma área por um longo tempo.</Nota>
+<Aviso>Escolha pelo menos um filtro para continuar!</Aviso>
+<Status>Atualmente, o $Lock$ está $1 [chave], clique em uma porta específica para um bloqueio temporário.</Status>
