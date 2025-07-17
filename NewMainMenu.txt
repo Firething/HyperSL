@@ -1,101 +1,101 @@
-Notícias
-Servidores
-Opções
+Romances
+Gerente
+Oportunidades
 Sair
-Mídia Social
+Mídia
 Internet
-Favoritos
-Oficial
+Um favorito
+O funcionário
 Histórico
 Amigos
-Procurar Servidores
-Criar Servidor
+Encontre o servidor
+Crie o servidor
 Reconectar
-Conexão Direta
-Recarregar
-Ocultar Partidas Vazias
-Ocultar Partidas Cheias
+Conexão automática
+Para saltar
+Escondendo jogo vazio
+Esconder o jogo perfeito
 S/ Whitelist
 Vídeo
-Áudio
-Controles
-Jogabilidade
-Outros
-Modo Janela
-Tela Cheia Exclusiva
-Janela Sem Bordas
-Janela Maximizada
+Soar
+Controlar
+Brinquedo
+O segundo
+A estrada
+A tela inteira é única
+No limite
+Janela estendida
 Janela
-Sincronização Vertical
-Limite de FPS
-Desligado
-Qualidade da Textura
-Manchas
-Sombras
-Qualidade das Sombras
-Distância das Sombras
-Desfoque de Movimento
-Correção de Cores
-Antisserrilhamento
-Iluminação da Render.
-Volume Principal
-Efeitos Sonoros
-Bate-papo por Voz
-Música do Menu
-Volume da Interface
-Tema do Menu
-Desaparição Veloz da Intro.
-Balanço da Cabeça
-Alternar Corrida
-Exibir Saúde Exata
-Status do Discord
-Lobby Público
-Alternar Saque
-SCP-079 - Modo Alternativo
-SCP-079 - Pós-Processamento
-Idioma
-Menu Principal
+Sincronização vertical
+Limite FPS
+Para
+A qualidade da construção
+A declaração
+Olhar
+A qualidade da sombra
+Distância da sombra
+Cidade
+Melhorando a cor
+Siddhakali
+Luz
+O caderno mais importante
+Efeito sonoro
+Bolo de voz
+Balmusico
+Elenco
+O tema do menu
+Uma rápida derrota das costas.
+Cabeça
+Intercâmbio
+Fornece saúde precisa
+O estado da deficiência
+LOBS PÚBLICAS
+Intercâmbio
+SCP -079 - Modo opcional
+Processando SCP-079-Post
+Língua
+O homem principal
 Conectar
-Voltar
-Esta mudança exige o reinício do menu.\nReiniciar o menu agora?
+Volte
+Essa alteração é necessária no menu.
 Sim
 Não
-Tem certeza que deseja sair?
-Resolução da Tela
-Esconder IP
-Bem-vindo de volta, {username}!
-Créditos
-AUTENTICANDO
-Conectando-se aos servidores centrais...
-<color=green>Conexão estabelecida</color>
-<color=red>Falha na conexão (verifique o console para obter detalhes)</color>
-<color=red>Falha na autenticação da Steam (verifique o console para obter detalhes)</color>
-<color=red>Falha na autenticação do Discord (verifique o console para obter detalhes)</color>
-Desativado
-Segundo(s)
-Intervalo p/ Remoção dos Corpos
-Mostrar Perfil da Steam
-Permite que jogadores vejam o seu perfil da Steam clicando no ícone na lista de jogadores.
-Não Rastrear (DNT)
-Proíbe que o servidor utilize os seus dados (endereço IP, ID de usuário, etc.) em propósitos não relacionados à segurança do servidor.
-API Gráfica
-Criar servidores diretamente pelo jogo não é mais suportado.\nExistem atualmente 3 maneiras de criar um servidor de SCP:SL:\n- Você pode baixar o SCP:SL Dedicated Server (AppID na Steam: 996560) e executá-lo no seu computador\n- Você pode alugar uma VPS ou um Servidor Dedicado de um provedor de hospedagem, executando o SCP:SL Dedicated Server nele\n- Você pode criar um servidor usando um serviço de hosting que fornece suporte para o SCP:SL (ex.: Terabit Hosting)\n\nClique nos links abaixo para obter mais informações. Você pode solicitar assistência para nosso suporte técnico\n (link para o nosso servidor do Discord pode ser encontrado no menu principal)
-FORÇAR CRIAÇÃO
-LEIA MAIS
-ALUGAR UM SERVIDOR
-CANCELAR
-Segundo(s)
-Por jogar nosso jogo!
-Alerta na Taskbar ao Nascer
-Oclusão do Ambiente
-Luzes Volumétricas
-Bloom
-Legendas
-Guia Operacional
-Alugar um Servidor
-<color=red>ALERTA DE FOTOSSENSIBLIDADE: LEIA ANTES DE JOGAR!</color>\nUma porcentagem bem pequena de pessoas pode experienciar convulsões epilépticas ao ser exposta a certos padrões de luz ou luzes intermitentes. Exposição a certos padrões, planos de fundos na tela do computador ou ao jogar pode induzir uma convulsão epiléptica nesses indivíduos. Condições específicas podem induzir sintomas epilépticos não detectados anteriormente até em pessoas que não têm histórico de convulsões ou epilepsia.\nSe você ou qualquer pessoa na sua família tem uma condição epiléptica, consulte seu médico antes de jogar. Se você apresentar algum dos seguintes sintomas ao reproduzir um vídeo ou jogar -- náusea, visão alterada, espasmos nos olhos e músculos, perda de consciência, desorientação, qualquer movimento involuntário ou convulsões -- interrompa o uso IMEDIATAMENTE e consulte um médico antes de voltar a jogar.
-PRESSIONE QUALQUER BOTÃO PARA CONTINUAR
-NÃO MOSTRAR NOVAMENTE
+Você quer ir
+A solução de tela
+Ocultar ip
+Bem -vindo novamente, {user}!
+Empréstimos
+Certificado
+Faça login nos servidores centrais ...
+<Color=Green> Link estabelecido</color>
+<Color=red> dano de conexão (verifique os detalhes do console)</color>
+<Color=red> vapor de autenticação (verifique os detalhes no console)</color>
+<Color=red> danos inválidos à autenticação (verifique se os detalhes)</color>
+Desabilitado
+Segundo (s)
+Intervalo de eliminação corporal
+Mostre o perfil do Steam
+Ele permite que os jogadores vejam seu perfil a vapor clicando no ícone na lista de jogadores.
+Não siga (dnt)
+Proíbe o servidor de usar seus dados (endereço IP, ID de usuário, etc.) para fins de segurança do servidor.
+Gráfico da API
+Criar um servidor coincide imediatamente, o jogo não é mais compatível. > SCP: SL (Ex.: Terabit) \ n \ nkricue para os links abaixo para obter mais informações. Você pode procurar ajuda com nosso suporte técnico \ n (conexão com o servidor Discord que você pode encontrar no menu principal)
+Formativo
+Leia mais
+Servo
+Negativo
+Segundo (s)
+Vamos jogar nosso jogo!
+Aviso da linha de trabalho no nascimento
+Atmosfera
+Luzes volumétricas
+Fã
+Legenda
+Instruções para uso
+Servo
+<Color=Red> PhotoservititiTibi Aviso: Leia antes de jogar! A exposição a alguns formulários, planos de fundo na tela ou reproduções de um computador podem causar ataques epiléticos a essas pessoas. Situações especiais podem causar sintomas epiléticos que nem são detectados por pessoas que não têm experiência em convulsões epilépticas ou epilepsia. \ NSE ou uma de sua família tem uma condição epilética, entre em contato com seu médico antes de jogar. Se você tiver algum dos seguintes sintomas ao reproduzir vídeos ou jogar, visão modificada, olhos, olhos e músculos, desorientação, qualquer movimento ou convulsões involuntárias, use as férias imediatamente e consulte seu médico antes de jogar novamente.
+Pressione cada botão para continuar
+Não mostre
 Continuar
-Informações do Servidor
-Desconectar
+Informações do servidor
+Férias
