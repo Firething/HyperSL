@@ -1,57 +1,57 @@
-0~Cartão de Zelador
-1~Cartão de Cientista
-2~Cartão de Supervisor de Pesquisa
-3~Cartão de Diretor de Zona
-4~Cartão de Guarda
-5~Cartão de Cabo da FTM
-6~Cartão de Engenheiro de Contenção
-7~Cartão de Agente da FTM
-8~Cartão de Capitão da FTM
-9~Cartão de Diretor da Instalação
-10~Dispositivo Hijacker da Insurgência
-11~Cartão nível-O5
-12~Rádio~Permite comunicação entre dispositivos a longas distâncias. O alcance pode ser ajustado.
-13~COM-15
-14~Kit Médico~Cura seus ferimentos.
-15~Lanterna~Que haja luz!
-16~Micro H.I.D.~Dispositivo elétrico pesado designado para a exterminação de anomalias.
-17~SCP-500~A panacéia. Regenera toda a sua saúde instantaneamente e cura quase todos os males.
-18~SCP-207~Nocivamente aumenta suas coordenações motoras.
-20~MTF-E11-SR
-21~Crossvec
-23~FSP-9
-24~Logicer
-25~Granada Explosiva~Um alto explosivo que causa dano significativo. Detona depois de um breve intervalo ao ser lançada.
-26~Granada de Luz~Cega e desorienta seus inimigos. Detona depois de um breve intervalo ao ser lançada.
-30~COM-18
-31~SCP-018~Superbola com a habilidade de quicar com extrema eficiência. Ricocheteia mortalmente em velocidades altas.
-32~SCP-268~Quando usado, torna você temporariamente invisível, a menos que seja interrompido por qualquer interação do usuário.
-33~Adrenalina~Concede um aumento temporário de saúde e regenera toda a estâmina.
-34~Analgésicos~Restaura saúde lentamente ao longo do tempo.
-35~Moeda~Você não tem certeza do porquê de querer carregar isso por aí...
-36~Colete Leve
-37~Colete de Combate
-38~Colete Pesado
-39~Revólver .44
-40~AK
-41~Espingarda
-42~Saco de Doces~Um saco contendo os seguintes doces:
-43~SCP-2176~Sua própria Luz Fantasma! Atenção, muito frágil...
-44~SCP-244-A~Um vaso antigo, congelante ao toque. Cria uma grande nuvem de neblina gelada quando colocada.
-45~SCP-244-B~Um vaso antigo, congelante ao toque. Cria uma grande nuvem de neblina gelada quando colocada.
-46~SCP-1853~Aumenta a destreza e habilidade com armas quando sua vida está sob risco.
-47~Disruptor de Partículas 3-X~Uma arma estranha que atira poderosos e desintegrantes disparos de energia.
-48~COM-45
-49~SCP-1576~Permite com que você se comunique com os mortos. Pode ser utilizado novamente depois de um tempo.
-50~Jailbird~Quê?!
-51~Anti-Cola~O resultado de um experimento com SCP-914. Bom pra sua saúde, ruim pra suas capacidades motoras. Vai salvar tua vida em um momento de aperto.
-52~FR-MG-0
-53~A7
-54~Lamparina~Uma clássica lâmpada a óleo, gravada com o nome "Daniel".
-55~SCP-1344~Óculos estranhos modificados que te permitem ver a posição de outros jogadores pelas paredes. Após colocados, nunca os remova!
-56~Bola de Neve
-57~Carvão
-58~Carvão?
-59~Toca-fitas?~Contém uma fita não rotulada. Por favor, não a toque. Por favor.
-61~Passe de Acesso À Superfície~Passe de acesso de uso único para abrir portões de saída.
-62~SCP-127
+0 ~ CARTE CARE
+1 ~ cartão de crédito
+2 ~ Pesquisa
+3 ~ zes
+4 ~ cartão de cartão
+5 ~ cartão de cabo FTM
+6 ~ uma combinação de cartão
+7 ~ FTM ADEND CARD
+8 ~ cartão FESM
+9 ~ cartão de crédito
+10 ~ Hujaking Standing
+11 ~ Cartão Ribon-U 5
+Deixe conversar com o software entre 12 ~ rádio por longa distância. Evento pode ser atribuído.
+13 ~ -16
+14 ~ Saúde saudável ~ curar sua dor.
+15 ~ Lyn ~ Luz!
+16 ~ Miro Hii. • Cliente selecionado para destruir empregos.
+17 ~ SCP-500 ~ Atividade eletrônica. Retorne sua saúde e todas as suas doenças em todos os pacientes.
+18 ~ SCP-207 ~ para ativar a configuração de tráfego.
+20 ~ MTF-E11-SR
+215 EGUST
+23 ~ FPP-9
+24/2 Loggy
+25 ~ Brandlov Gradda ~ Há muitas coisas importantes para causar grandes danos. Arrastado após um curto período de tempo.
+26 ~ Granada »A luz» da cegueira e cegueira de 26 ~ Granada. Arrastado após um curto período de tempo.
+30 ~ 18 com 18
+31 ~ SCP-08 ~ Superbola, o melhor é confortável. Morte em alta velocidade.
+32 ~ Produtos SCP-268 A Faça um momento sem o uso de um usuário.
+33 ~ A Saúde da Adrenalina oferece um aumento temporário na saúde e revisou toda a fazenda.
+34 ~ analjex ~ é lentamente restaurado com o tempo.
+35 ~ Mint ~ Você não sabe por que deseja trazê -lo ...
+36 ~ લાઇટ આર્મા
+37 ~ લડાઇ ડ્રેસિંગ
+38 ~ ભારે વેસ્ટ
+39 ~ રિવોલ્વર .44
+40 ~ એકે
+41 ~ શોટગન
+42 ~ કેન્ડી બેગ બેગ નીચેની મીઠાઈઓવાળી મીઠાઈઓવાળી:
+43 ~ એસસીપી -2176 Seu તમારી પોતાની ભૂત પ્રકાશ! ધ્યાન, નાજુક નાજુક ...
+44 ~ એસસીપી -244 -એ જૂની અને અને અને બોટ બોટ બોટ બોટ બોટ બોટ બોટ બોટ સ્થિર સ્થિર સ્થિર સ્થિર સ્થિર Uma grande nuvem de neblina fria.
+45 ~ ~ -244 -બી ~ સ્પર્શ પર એક જૂની, બોટ બોટ. Faça uma grande nuvem de fundo frio quando forem colocados.
+46 ~ SCP -1853 Você está aumentando a bobina e as habilidades, se sua vida estiver em perigo.
+47 ~ Coleção de partículas 3-x ~ Uma arma ímpar que beija uma energia poderosa e espalhada.
+48 ~ કોમ -45
+49 ~ SCUP -576 Você se permitirá se comunicar com os mortos. થોડા સમય પછી ફરીથી વાપરી શકાય છે છે.
+50 ~ જેલબર્ડ જેલબર્ડ શું?!
+51 ~ એન્ટિ -કોલા SC એસસીપી -914 સાથેના પરિણામ પરિણામ. É bom para sua saúde, mal para suas habilidades motoras. તમે કબજિયાત સમયે તમારા જીવનને બચાવશો.
+52 ~ એફઆરએફઆર -0
+53 ~ એ 7
+54 ~ Lâmpada ~ Olonlamplap clássico, "Daniel" gravado.
+55 ~ SCP -1344 ~ O Glutar ímpar alterado permitiu que você visse o status de outros jogadores nas paredes. તમે તેમને મૂકો પછી, તેમને બહાર કા કા! ો ો !!
+56 ~ સ્નોબોલ
+57 ~ કોલસો
+58 ~ કોલસો?
+59 ~ ટેપ? ન અવેતન ટેપ શામેલ છે છે. Por favor, não toque. Por favor.
+61 Acesso passado Acesso Cess ~ Porta do saída para abrir o processo de acesso exclusivo.
+62 ~ એસસીપી 127
