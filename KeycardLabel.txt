@@ -1,9 +1,9 @@
-CIENTISTA
-ZELADOR
-SUPERVISOR DE PESQUISA
-ENGENHEIRO DE CONTENÇÃO
-GUARDA DE SEGURANÇA
-DIRETOR DE ZONA
-DIRETOR DA INSTALAÇÃO
-USOS RESTANTES: 1
-ACESSO REVOGADO
+Cientista
+Preservar
+Inspetor
+Engenheiro ISOV
+Preservar
+Gerente Regional
+Instaladores
+O resto de nós: 1
+Namorando
