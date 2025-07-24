@@ -1,7 +1,7 @@
 # 📑 HyperSL (como instalar)
 1. Vá até os arquivos locais do SCP: SL.
 2. Entre em Translations e apague todos os arquivos em **pt-BR**. (FAÇA UM BACKUP ANTES!!)
-3. Então extraía os arquivos desse repositório para a pasta **pt-BR**.
+3. Então extraia os arquivos desse repositório para a pasta **pt-BR**.
 4. Como alternativa, você pode também só extrair o HyperSL lá na pasta dele, isso vai criar uma tradução personalizada separada da pt-BR.
 
 
