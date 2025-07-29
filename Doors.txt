@@ -1,2 +1,10 @@
-<Color = verde> aberto </lors>
-<Color =
+<color=green>ABRIR</color>
+<color=#07A2FF>PARA FECHAR</color>
+<color=orange>MOVENDO</color>
+<color=red>SOFRIMENTO</color>
+<color=red>ERRO</color>
+<color=red>DECLARADO</color>
+<color=green>O ACESSO É CONFIRMADO</color>
+<color=#07A2FF>CARTÃO AUTORIZADO</color>
+<color=orange>POR FAVOR, PASSE</color>
+<color=orange>PARA FECHAR</color>
