@@ -1,7 +1,7 @@
-polícia
+Polícia
 Correto
-pacote
-Procedimento de recuperação \ e escap-106
+PACOTE
+Procedimento de recuperação \n ESCAP-106
 Gentil
 Resumo
 cancelamento
@@ -15,11 +15,11 @@ Barulho
 Inventário
 Qualidade
 Tolerância
-Louco ...
+Louco...
 Aumenta o cenário do jogo que captura a experiência do jogo.
-[1] Abra / feche a porta \ n [2] Centro da cidade * \ n \ n * usando a porta para bloquear habilidades especiais.
-A porta é bloqueada pelo SCP-079.
-O comando de acabamento
+[1] ABRA/FECHE A PORTA \n[2] CENTRO DA CIDADE \n\nUsar a porta para desbloquear habilidades especiais.
+A PORTA É BLOQUEADA PELO SCP-079.
+O Comando de Acabamento
 Tem certeza de que deseja sair do servidor?
 Opções gerais. Preencha as listas de status na lista principal.
 ESPERANDO PELO JOGADOR
@@ -28,13 +28,21 @@ Atravessar
 Volume principal
 conexão
 Você escapou como um cientista e se juntou ao FTM.
-Você escapou metade e se juntou ao caos Rebellie.
+Você escapou metade e se juntou ao Caos Rebellie.
 Quem é você
-Escape: [Escape_mines] minuto e [evase_seconds] segundos
-Espere até que [equipe] seja usado novamente.
-Para mais informações, deixe <olor = branco> <b> f1 </b> </ol>.
+Escape: [escape_minutes]:[escape_seconds]
+Espere até [time]\n[item] para que seja usado novamente.
+Para mais informações, deixe <color=white><b>F1</b></color>.
 Você tem algemas.
-Você foi preso por nove raposas de cauda. \ Ncom tem pouca ameaça à instalação e pode se fortalecer.
-A revolta de Chaaosa foi trancada. \ Eles podem usar as informações que você oferece.
-Iniciar: <color = amarelo> {0} </h color> s
-Comece com <color =
+-
+-
+INICIAR: <color=yellow>{0}</color>s
+COMECE COM: <color=red>TRANCADO</color>
+DESCARGAS SENSÍVEIS. INTENÇÃO
+Pressione <b>[key]</b> para cancelar.
+Regulamento
+Desligue a conversa do espectador.
+Para reduzir o ruído (recomendado)
+Automático (padrão)
+O microfone não consegue encontrá-lo!
+ACESSO
