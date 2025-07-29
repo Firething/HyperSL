@@ -33,7 +33,7 @@ Incluindo
 Esta opção permite que você decida sobre o pedido em ordem. O filtro selecionado não prejudicará seu pedido ao avaliar seu pedido.
 Remova todos os links especiais
 Retornar escadas (contêm)
-Editado: [qcors]
+Editado: [hotkey]
 O primeiro novo se tornou com
 Qualquer dispositivo
 Qualquer cartão
