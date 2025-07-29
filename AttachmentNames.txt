@@ -1,45 +1,46 @@
 Nada~Não há nada a combinar.
 Fábrica~Leva a uma medida simples e fácil.
 Ponto~O objetivo de atrair continua a tomar, para absorver essa aparência, a tomar.
-Objetivo holográfico~Ragopicp não é uma extensão. Funciona para adicionar curta distância.
+Objetivo Holográfico~Ragopicp não é uma extensão. Funciona para adicionar curta distância.
 Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tomb Tom~para Etsek Gou Gahitu.
 Meera United Midit~Link de emergência e ferramenta de pagamento para o dispositivo.
-Telescópico no mecanismo~\nÉ perfeito por um longo tempo, mas eles estabeleceram um limite.
+Telescópico no Mecanismo~\nÉ perfeito por um longo tempo, mas eles estabeleceram um limite.
 O usuário (controle de incêndio)~Tem boa governança e boa governança.
-O estoque roubado~Remove o incêndio quando as armas de fogo, mas aumentam o tempo.
+O Estoque Roubado~Remove o incêndio quando as armas de fogo, mas aumentam o tempo.
 Tradutor~O tradutor de estoque aumenta o movimento.
 Jogos Hight~Reduza a plataforma de incêndio, mas é mais difícil controlar o gabarito.
-O movimento excessivo muito pesado~diminui, mas quando você tem como alvo, cria armas de fogo muito fixo.
+Peso~O movimento excessivo muito pesado diminui, mas quando você tem como alvo, cria armas de fogo muito fixo.
 Goed Bolpezer Bolpezer político Polic~Stocment, O Livro de Sofia de Sofia após golfe exclusivo.
 Vime~Frente verticalmente. Isso facilita a administração do acordo da boca.
-A luta a laser~Fornece referência visual ao objetivo, que ajuda a atirar sem objetivos, mas sua posição pode ser facilmente expressa.
+A Luta a Laser~Fornece referência visual ao objetivo, que ajuda a atirar sem objetivos, mas sua posição pode ser facilmente expressa.
 Descrição~Fonte de luz ativa. O peso da arma aumenta, mas as áreas escuras podem ser uma cópia de.
-O dispositivo em estupidez tecnológica é útil, especialmente com o desempenho.
-Tubo tradicional ~ tubo comum sem equipamento oral.
-As bombas expandem o fogo avançado, mas promovem o menor movimento causado por um aumento no comprimento da arma.
-Sildacer ~ Remova o ruído. Reduz as tendas, mas geralmente aumenta o peso e o comprimento da arma.
-Remova a luz que segue pela boca de armas de fogo. Isso torna mais fácil jogar fora a escuridão.
-O freio do livro ~ é contra a criança. Uso gases práticos para reduzir o baú, mas aumenta a gravidade do alcance.
-Fmj ~ pente com bala completa para o Metallic em geral.
-O pente com uma bala profunda.
-JHP CANCO ~ padrão padrão com irregularidades ocas.
-Extensão FMJ ~ Adicione o pente com uma bala de revestimento de metal completo.
-O pente foi expandido ~ exceto a bala do pára -choques.
-Adicione o JHP contido no ponto oco oco.
-Fmj ~ tambor de alto potencial com esferas de aço completo.
-Ap ~ tambor com uma grande capacidade com um para -choque.
-JHP ~ O tambor de grande capacidade com anormalidades ocas.
-O chapéu inferior. ~ Cabelo baixo com casaco de ferro completo.
-O chapéu inferior. ~ Codificação baixa com balas de pára -choques.
-Baixa capacidade. ~ Capacidade mínima com pontos abertos.
-O cilindro tem uma pequena vínculo 5, mas pode causar danos aos inimigos com os braços.
-6-sylinder ~ seis fotos clássicas.
-Use 7 cilindros ~ preenchidos com carros que foram preenchidos de tiros. Pelo menos efetivamente.
-Relatório \ n \ n \ n \ n \ n \ n \ n \ n \ n \ n \ n \ n \ n \ n \ n \ n \ n \ n \ n.
-Eu sei, que inclui bombeiro e a verdade: reduz o sistema de gás máximo.
-Uma parte curta de uma peça curta usada para melhorar a atividade e a liderança de velocidade.
-Constor e radial radial radial, mas melhore a continuação padrão.
-O PYP ~ reduz um comprimento permanente do raio, mas adiciona peso e comprimento do dispositivo.
-Sem campos de batalha curtos com grande movimento, ele bloqueia o topo das armas de trânsito.
-Sistema de tiro exclusivo ~ sistema padrão. Girando uma linha de uma única linha.
-O sistema de reivindicação dupla são dois métodos táticos de táticas que são apropriadas para incentivar duas apropriadas.
+Conexão de Munição~O dispositivo em estupidez tecnológica é útil, especialmente com o desempenho.
+Tubo Tradicional~Tubo comum sem equipamento oral.
+Tempo ao Longo do Tempo~As bombas expandem o fogo avançado, mas promovem o menor movimento causado por um aumento no comprimento da arma.
+Sildacer~Remova o ruído. Reduz as tendas, mas geralmente aumenta o peso e o comprimento da arma.
+Não-Fogo~Remova a luz que segue pela boca de armas de fogo. Isso torna mais fácil jogar fora a escuridão.
+O freio do livro~É contra a criança. Uso gases práticos para reduzir o baú, mas aumenta a gravidade do alcance.
+Boca Estimado~Adicione o ritmo Rost, adicione danos a cada segundo, mas dificulta o controle das armas.
+FMJ~Pente com bala completa para o Metallic em geral.
+AP~O pente com uma bala profunda.
+JHP CANCO~Padrão padrão com irregularidades ocas.
+Extensão FMJ~Adicione o pente com uma bala de revestimento de metal completo.
+O pente foi expandido~ baleia para-choques.
+Extensão JHP~O JHP contido no ponto oco.
+FMJ Tambor~O tambor de alto potencial com esferas de aço completo.
+AP Tambor~Tambor com uma grande capacidade com um para-choque.
+JHP Tambor~O tambor de grande capacidade com anormalidades ocas.
+O Chapéu Inferior FMJ~ Cabelo baixo com casaco de ferro completo.
+O Chapéu Inferior AP~ Codificação baixa com balas de para-choques.
+Baixa capacidade JHP~ Capacidade mínima com pontos abertos.
+Cilindro Cinco~O cilindro tem uma pequena vínculo 5, mas pode causar danos aos inimigos com os braços.
+6-Cilindro~Seis fotos clássicas.
+Use 7 Cilindros~Preenchidos com carros que foram preenchidos de tiros. Pelo menos efetivamente.
+Relatório~\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRelatório
+O Texto do Rifle de Tiro~Eu sei, que inclui bombeiro e a verdade: reduz o sistema de gás máximo.
+Tubo~Uma parte curta de uma peça curta usada para melhorar a atividade e a liderança de velocidade.
+Nansinsus~Constor e radial radial radial, mas melhore a continuação padrão.
+O PYP~reduz um comprimento permanente do raio, mas adiciona peso e comprimento do dispositivo.
+Sem campos de batalha curtos~Com grande movimento, ele bloqueia o topo das armas de trânsito.
+Sistema de Tiro Exclusivo~Sistema padrão. Girando uma linha de uma única linha.
+O Sistema de Reivindicação Dupla~São dois métodos táticos de táticas que são apropriadas para incentivar duas apropriadas.
