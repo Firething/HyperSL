@@ -11,7 +11,7 @@ Música
 Interface
 Lição
 Reduza o som
-Isso reduz o ruído do fundo indesejado preso pelo microfone. Recomenda -se que você não habilite esta opção e não afete sua qualidade de som.
+Isso reduz o ruído do fundo indesejado preso pelo microfone. Recomenda-se que você não habilite esta opção e não afete sua qualidade de som.
 Linhas de som
 Tampa SCP-127
 Volume SCP-3114
