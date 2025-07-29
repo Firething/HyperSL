@@ -1,7 +1,7 @@
-Run: Aumente a velocidade, mas assim que você se move.
-Roubo: suas táticas são silenciosas para zombar.
-Milha
-Linda: você não tem nada. Procure algo. Tudo
-Cartão de acesso: você tem falta de ouvidos. Não é o melhor, mas não se esqueça.
-Protocolos tradicionais: você tem armas, desnutrição e condição.
-Arma
+Run:Aumente a velocidade, mas assim que você se move...
+Roubo:Suas táticas são silenciosas para zombar.
+Milha:Abra seus dispositivos e escolha como segurar botão de esquerda e jogar fora com o botão direito do mouse.
+Linda:Você não tem nada. Procure algo. Tudo.
+Cartão de acesso:Você tem falta de ouvidos. Não é o melhor, mas não se esqueça.
+Protocolos Tradicionais:Você tem armas, desnutrição e condição.
+Armado:Ele recebe armas pesadas, equipamentos de telecomunicações, (login do cartão) e...
