@@ -1,28 +1,28 @@
-SCP -173
+SCP-173
 Classe-D
 Viagem
-SCP -106
-Raposa padre e nove caudas
-SCP -049
+SCP-106
+Raposa Padre e Nove Caudas
+SCP-049
 Ciência
-SCP -079
-A capacidade de velocidade cura
-SCP -096
-SQBK -049-2
-Existem nove pixels
-O dono da raposa e nove
-Raposa corda e nove
-Estar alinhado
-Funcionários autorizados
-SCP -939
+SCP-079
+A Capacidade de Velocidade cura
+SCP-096
+SQBK-049-2
+Existem Nove Pixels
+O Dono da Raposa e Nove
+Raposa Corda e Nove
+Estar Alinhado
+Funcionários Autorizados
+SCP-939
 -
 Cupom de Kayas Bay
-A concessão é sagrada
+A Concessão é Sagrada
 Perseguir
 Principal
 Fotógrafo
-SCP -3114
+SCP-3114
 Arte
-SCP -1507
-SCP-1507- alfa
-SQBK -15507-049
+SCP-1507
+SCP-1507-Alfa
+SQBK-15507-049
