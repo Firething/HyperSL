@@ -1,9 +1,9 @@
-(% Do tempo ⏳)
- (% De falha 👊)
-<Color =% kitikcolor%>% timedisploloy% ferenayplay% </ t ho color>
-Suba o objetivo disso!
-<Color =% pesquisa%>% atende%>
-<color =% de pesquisa%>% de regressão% </ for color> doença
-<Color =% pesquisa%>% Acesso a% </strong Color> Explore.
-<color =% meet%>% insere% </ t color
-<Color =% meet%>% reunião% </o ho cor> veja <color = red>
+ (%time% ⏳)
+ (+%influence% 👊)
+<color=%factionColor%>%timeDisplay%%influenceDisplay%</color>
+Objetivos perfeitos aparecerão acima!
+<color=%achieverColor%>%achieverName%</color> morto <color=%victimColor%>%victimName%</color>
+<color=%achieverColor%>%achieverName%</color> infligir <color=%victimColor%>%victimName%</color>
+<color=%achieverColor%>%achieverName%</color> saiu do local.
+<color=%achieverColor%>%achieverName%</color> ativou o <b>Produto</b>
+<color=%achieverColor%>%achieverName%</color> obtido <color=red>%itemName%</color>
