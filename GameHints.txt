@@ -1,6 +1,6 @@
-<Cell = Red> Recusando acesso
-<Color = amarelo> [tipo] Limite imaginativo </ color = amarelo> [max_type_count] bala </ly>)
-<Courment = Yellow> s [Type] adultos </ro Color> (<color = amarelo> [max_type_ color>).
-<Cour Color = Yellow> [Type] </ro Color> Escopo (<de = Yellow> [mute_ty_ty_count] item </run>)
-=
-<Color = amarelo> [mac_item_count] só pode ser feito.
+<color=red>A abordagem foi rejeitada</color>
+Agora o limite de <color=yellow>munição de [type]</color> chegou (<color=yellow>[max_type_count] comprimidos</color>)
+Você <b>já chegou</b> ao limite de <color=yellow>munição de [type]</color> (<color=yellow>[max_type_count] comprimidos</color>)
+Agora o limite de <color=yellow>[type]</color> chegou (<color=yellow>[max_type_count] comprados</color>)
+Você <b>já chegou</b> ao limite de <color=yellow>[type]</color> (<color=yellow>[max_type_count] comprados</color>)
+Você pode pegar <color=yellow>[max_item_count] coisas</color>.
