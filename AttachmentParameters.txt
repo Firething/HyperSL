@@ -1,5 +1,5 @@
 Confusão
--
+---
 Uso indevido
 Alway
 Pro prova de tiro
@@ -8,17 +8,17 @@ Relacionado
 Membro
 A precisão do propósito
 A precisão do propósito
-Hora de equipá -la
+Hora de equipá-la
 Bala
 Bacharel
-Hora de equipá -la
+Hora de equipá-la
 Delace
--
-Velocidade
+---
+Velocidade para mira
 A propagação do caráter
 Ficar no nível
 Comparação
 Frágil
--
+---
 Aqui
 Velocidade -velocidade
