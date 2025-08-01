@@ -1,19 +1,19 @@
-A configuração do servidor não pôde ser encontrada
-Para negar
-Para o seu swell
-Para o seu swell
-Arco arqueiro
-Seta direita
-Turno esquerdo
-Para fornecer
-Cheque à esquerda
+A Configuração do Servidor Não Pôde Ser Encontrada
+Para Negar
+Para o Seu Cima
+Para o Seu Baixo
+Arco Arqueiro
+Seta Direita
+Turno Esquerdo
+Para Fornecer
+Cheque À Esquerda
 Administração
-esquerda
-O fundo do
+Esquerda
+O Fundo do
 Cartão
 Localização
-Para entrar
-Com o botão esquerdo do mouse
-Botão da altura direita
-Chave média
-Chave do mouse {0}
+Para Entrar
+Com o Botão Esquerdo do Mouse
+Botão da Altura Direita
+Chave Média
+Chave do Mouse {0}
