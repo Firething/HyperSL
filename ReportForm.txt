@@ -1,7 +1,7 @@
-Relate o jogador
-Usuário: NID Player: NDScriptole:
+Relate o Jogador
+Usuário: \nID Player: \nDScriptole:
 Organizar
 Relatório sobre regras do servidor
 Descrição da corrupção ou ocupação
-Relatório
-Por favor, aguarde ...
+RELATÓRIO
+Por favor, aguarde...
