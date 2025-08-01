@@ -1,29 +1,29 @@
-Aminada [Lutted] / [Capacidade] [Tipo]
+Aminada [loaded]/[capacity] [type]
 Dano
-A publicação do filhote
-Precisão com / objetivos
-Precisão alvo
+A Publicação do Filhote
+Precisão com Objetivos
+Precisão Alvo
 Pesado
 Longo
-Versão:
-Eficiência do capacete
-Eficiência de vasscript
-Usando tolerância
-A velocidade do movimento
-Diferente, é claro:
-Muitos limites:
-[Tamanho] Todos
-Faça login. Smart
+VERSÃO:
+Eficiência do Capacete
+Eficiência de Vasscript
+Usando Tolerância
+A Velocidade do Movimento
+Diferente, É Claro:
+Muitos Limites:
+[amount] Todos
+Faça login. Smart.
 Preciso
-Clique em [tecla] para rir
-O fardo restante: [porcentagem]
-Outra bala: [_ janeiro]
-"Segure [principal] no modo de registro nítido.
-Segure [secundário] para limpar o poder.
-[Village] muda entre modos importantes.
-Pressione [botão].
-[Chave] Carregar.
-Pronto para fogo. [Ativar ativamente].
+Clique em [key] para rir
+O Fardo Restante: [percent]
+Outra Bala: [rem]
+Segure [primary] no modo de registro nítido.
+Segure [secondary] para limpar o poder.
+[key] muda entre modos importantes.
+Pressione [key].
+[key] Carregar.
+Pronto para fogo. [primary].
 Esta arma está exposta. As oportunidades são limitadas.
 O SCP-127 fortalecendo seu relacionamento com ele aprofundou seu relacionamento.
-$ Ou $ [acima], [abaixo], use [abaixo] para controlar várias coisas.
+Usa [up], [left], [down] e [right] para controlar a serpentinha do mal.
