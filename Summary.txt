@@ -1,10 +1,10 @@
 A partida acabou!
-Ganhar
-Ganhando na fundação
-Imagem da rebelião
-Ligação
+GANHAR
+GANHANDO NA FUNDAÇÃO
+IMAGEM DA REBELIAÇÃO
+LIGAÇÃO
 Os itens do gateway dominavam a instalação. Uma resposta essencial foi lançada.
-Todas as ameaças à segurança são justas. O site 02 é seguro novamente.
+Todas as ameaças à segurança são justas. O Sítio-02 é seguro novamente.
 A presença da fundação termina. Agentes esperando por um novo pedido.
 O Space-02 está sob algum controle, mas tudo vale a pena. O vencedor não é especificado.
 [summary_d_escaped] Classe-Escape
@@ -17,3 +17,4 @@ A próxima partida [summary_next_round_countdown] segundos.
 Os LCPs mataram [summary_scpfrags] pessoas.
 Flamingo vence
 Todas as outras equipes terminaram. Toda a vitória queimando foi recebida.
+
