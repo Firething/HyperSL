@@ -1,3 +1,4 @@
-Indica o restante do tempo antes da recuperação da equipe. \npisca Quando o Renascença ocorrerá em breve.
+Indica o restante do tempo antes da recuperação da equipe. \nPisca Quando o Renascença ocorrerá em breve.
 Indica os efeitos da nova recuperação.
-Ele mostra o número de renanes disponíveis neste grupo. \n Não está mais disponível para recuperação, a sequência dos mortos é ativada.
+Ele mostra o número de renanes disponíveis neste grupo. \nNão está mais disponível para recuperação, a sequência dos mortos é ativada.
+
