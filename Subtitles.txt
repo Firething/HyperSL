@@ -1,5 +1,5 @@
-O nome [nome] exple epsilon-11 será incluído na entrada. Recomenda -se <Titire> para chegar à sua jornada a todos os funcionários e ao contrato de liquidação no grupo FTM. <LELVES>
-Espere a [porta] o objeto Scros.
+O nome [designation] exple EPSILON-11 será incluído na entrada. Recomenda-se <split>para chegar à sua jornada a todos os funcionários e ao contrato de liquidação no grupo FTM.
+Espere a [count] o objeto Scros.
 Aguarde quando conectado ao mesmo tempo com 1 objeto.
 No momento da instalação, os problemas de segurança permanecem.
 Sucesso concluído com êxito. Da maioria.
@@ -8,7 +8,7 @@ O sistema de segurança automático está concluído.
 Ogiva Hae é concluída com sucesso.
 Os membros da equipe científica foram bem -sucedidos.
 Um funcionário de classe de sucesso.
-O alarme foi bem -sucedido.
+O alarme foi bem-sucedido.
 SCP-[SCP]
 Foi introduzido com sucesso. Unidade habitada separadamente.
 Foi introduzido com sucesso. Da maioria.
@@ -20,12 +20,13 @@ A entrada retornou a esse modo.
 Leia tudo. <Tatire> A área de luz em T-15 minutos. <Elegn> deve levar todas as razões biológicas para evitar danos.
 O problema, o castigo geral das luzes todas as vezes.
 O dano, a punição geral das luzes no minuto T-1.
-O problema é uma grande penalidade de entusiasmo da luz em T-30 segundos. <SeS> Todas as portas estão abertas à posição de energia. Por favor, livre -se disso.
-Os limites de luz estão bloqueando e prontos para derrubar. <sip> é remover problemas de início orgânico.
+O problema é uma grande penalidade de entusiasmo da luz em T-30 segundos. <split>Todas as portas estão abertas à posição de energia. Por favor, livre -se disso.
+Os limites de luz estão bloqueando e prontos para derrubar. <split>É remover problemas de início orgânico.
 Alpha Tool Alpha.
 Exclua o tiro. Reinicie o sistema.
-A ordem das estrelas finais, t-[[[[[[[[[]]]]] segundos.
+A ordem das estrelas finais, t-[time] segundos.
 As pessoas terminam com marshmallows.
-A seção do grupo de trabalho móvel foi instalada (o nome] está registrado com acesso. <LELVES>
-Aviso de segurança. A função básica da vulnerabilidade mais óbvia. Equipe segura, seguindo o ex -amargo.
-Nota, termos seguros. Os problemas do racismo foram criados em a.
+A seção do grupo de trabalho móvel foi instalada, [designation] está registrado com acesso. <split>
+Aviso de segurança. A função básica da vulnerabilidade mais óbvia. Equipe segura, seguindo o ex-amargo.
+Nota, termos seguros. Os problemas do racismo foram criados em...
+
