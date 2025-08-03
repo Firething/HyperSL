@@ -1,4 +1,5 @@
-<Size=1800><Color=red>de -divina</Color></Size>
+<Size=1800><Color=red>de-divina</Color></Size>
 <Color=red><Size=2000>Stay</Size></Color>
 <Color=green><Size=1800>pronto</Size></Color>
 Explosão
+
