@@ -21,4 +21,5 @@ Comparação
 Frágil
 ---
 Aqui
-Velocidade -velocidade
+Velocidade-velocidade
+
