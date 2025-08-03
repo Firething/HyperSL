@@ -1,5 +1,4 @@
 Tome cuidado
 Bem
 Diagramas Intel podem ser encontrados e não ajudados. \nAgora <b>eu recomendo</b> para usar a placa gráfica <b>não é desejável</b>. <b>De repente desativado no jogo</b> com o ajuste atual.
-É impossível encontrar uma atualização importante do sistema necessário para o bate-papo por voz. Verifique se o Windows está totalmente atualizado; caso contrário, o jogo pode não funcionar corretamente. Se esse problema continuar, entre em contato com nosso grupo de apoio tecnológico para ajudar
-
+É impossível encontrar uma atualização importante do sistema necessário para o bate-papo por voz. Verifique se o Windows está totalmente atualizado; caso contrário, o jogo pode não funcionar corretamente. Se esse problema continuar, entre em contato com nosso grupo de apoio tecnológico para ajudar.
