@@ -1,18 +1,18 @@
-As configurações. Rato
+As Configurações de Rato.
 Sentimento
-Os descontos emoções. O alvo
-Em geral
+Os descontos emoções. O alvo.
+Em Geral
 IGUG ASS
 O objetivo, a sensação do mouse é dividida nas armas de armas. Os propósitos associados aos seus métodos sempre parecem estar da mesma distância da tela. Ao melhorar essa configuração, você pode adicionar ou diminuir a gravidade das reduções.
-Para segurar
+Para Segurar
 Trocar
-Mira - como um pouco para mudar
-Concorrência - Como mudar
-Colete produtos - alternativamente
-Stealth - como mudar
-Peixe grátis - alternativamente
-O botão correto a ser lançado (lista)
-Produtos - como você pode mudar
-A mudança de mercado na área
-A troca de visualização automática
+Mira - Como um Pouco para Mudar
+Concorrência - Como Mudar
+Colete Produtos - Alternativamente
+Stealth - Como Mudar
+Peixe Grátis - Alternativamente
+O Botão Correto a Ser Lançado (lista)
+Produtos - Como Você Pode Mudar
+A Mudança de Mercado na Área
+A Troca de Visualização Automática
 Se você não espera, alterará automaticamente sua câmera após um pequeno intervalo.
