@@ -1,4 +1,4 @@
-<Size=1800><Color=red>De-divina</Color></Size>
-<Color=red><Size=2000>Stay</Size></Color>
-<Color=green><Size=1800>Pronto</Size></Color>
-Explosão
+<Size=1800><Color=red>COM CUIDADO</Color></Size>
+<Color=red><Size=2000>POR FAVOR, AGUARDE</Size></Color>
+<Color=green><Size=1800>BEM</Size></Color>
+ATMOSFERA INDESEJADA
