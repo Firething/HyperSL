@@ -1,101 +1,101 @@
-Na entrada
+Na Entrada
 Fechar
 Decisão de Sombra
 Opções
-Baseado em <i> scp: scod: pare </i>
+Baseado em <i>SCP: Pare</i>
 Voltar
 Língua
 Anrorform
-Detalhes da alteração: Manutenção de novas visualizações - Número máximo de fontes de luz em cada pixel. \ Ns. Verticalmente - ativa a coordenação com a velocidade da produtividade.
+Detalhes da alteração: Manutenção de novas visualizações – Número máximo de fontes de luz em cada pixel. \nVerticalmente – ativa a coordenação com a velocidade da produtividade.
 Vá para o jogo
-Post Office \ npricessing
+Post Office \nProcessing
 Dinheiro
-Saia do jogo
-Modo de tela inteira
-Configurações da tela
-Correção de cores
-Digite o endereço IP ...
+Saia do Jogo
+Modo de Tela Inteira
+Configurações da Tela
+Correção de Cores
+Digite o endereço IP...
 Resolução
 Jogar
-Número de pixels leves
+Número de Píxeis de luz
 Sombra
 Sombra
 Definir
-Configurações de processamento após o processamento. Essas mudanças não afetam o desempenho. Recomenda -se deixar o valor como padrão.
-Modo de luz: \ ninning, a qualidade gráfica é reduzida. Se você tiver um computador fraco, desligue -o.
-Síntese vertical
+Configurações de processamento pós-processamento. Essas mudanças não afetam o desempenho. Recomenda-se deixar o valor como padrão.
+Modo de Luz: \nAtivando, a qualidade gráfica é reduzida. Se você tiver um computador fraco, desligue-o.
+Sincronização Vertical
 Combinar
 Gráficos
 Altere as configurações de sombra. Lessing Sandes é melhor.
-Menu principal
+Menu Principal
 Luz
 Mancha
-Longe da sombra
+Longe da Sombra
 Precisa de informações adicionais
 3 SPP-914
 Rota
 Mente
-Em busca de busca
-Não diga
+Em Busca
+Não me diga...
 Como você quer participar?
-Lista de servidores
-Solteiro você
+Lista de Servidores
+Sozinho
 Exploração
 Use 2 armas
-Nós o usamos como uma reunião. Não deve ser necessário. \ N (pressione o logotipo para conectar)
-Por padrão, o servidor inicia a rede. \ NSE, os amigos precisarão de um link para o endereço IP. \ Ns Se você deseja instalar um servidor comum, selecione seus documentos e siga as instruções.
-1 cenoura
+Usamos isso como uma reunião. Não deve ser necessário. \n(Pressione o logotipo para conectar)
+Por padrão, o servidor inicia em rede. \nSe os amigos quiserem entrar, precisarão de um link ou do endereço IP. \nSe você deseja instalar um servidor comum, selecione seus documentos e siga as instruções.
+🥕 
 Os planos de jogo são uma versão beta para o público.
 4 (adiciona aplicativos adicionais)
-Conexão diretamente
-Bump / resultados
+Conexão Direta
+Bump/Resultados
 Volume
-Insira requisitos de IP.
+Insira os requisitos de IP.
 Cole o arquivo
-Não há parceiro
-Pressione EPP para fechar / programa
-Controlar
-Tamanho do sangue
+Sem Parceiro
+Pressione EPP para fechar / sair do programa
+Controles
+Tamanho do Sangue
 Limitações de FPS
-O limite do FPS não funciona quando S é s. É verticalmente.
-Retorno correto
-Usamos uma sala de bate -papo ou evento. (Pressione o logotipo abaixo para iniciar o evento)
+O limite de FPS não funciona quando S está ativado. É vertical.
+Retorno Correto
+Usamos uma sala de bate-papo ou evento. (Pressione o logotipo abaixo para iniciar o evento)
 Vogal
 Ótimo
 Música
 Castelo
-Tem o efeito
-Opções de reprodução
-A entrada desaparece
+Tem efeito
+Opções de Reprodução
+A Entrada Desaparece
 O texto da sala de aula desaparecerá mais rápido.
-SCP -079 - Modo de opção de ativação
-Pressione a lacuna uma vez para alterar entre o modo de câmera.
+SCP-079 – Modo de Ativação de Opções
+Pressione a barra de espaço uma vez para alternar entre o modo de câmera.
 Processamento SCP-079-Mail
 Se desativado, o efeito da sala diminuirá.
-Cabeça da cabeça
-Deixe a primeira correia de câmera da primeira pessoa enquanto se move.
+Cabeça da Cabeça
+Deixe a câmera em primeira pessoa ativa enquanto se move.
 Liderar
 Reserve um tempo para escapar em vez de manter a pressão.
-HP artificial também
-Em vez de se juntar ao mais importante, é dada uma vida artificial quando a adrenalina é usada.
-Nossas traduções são um código aberto para o Github. \ Nquer ajuda? Clique aqui para acessar o armazém.
-Participação na comunidade
-Se você estiver ativo, sua situação aparecerá em discórdia / vapor.
+HP Artificial Também
+Em vez de se juntar ao mais importante, uma vida artificial é dada quando a adrenalina é usada.
+Nossas traduções são de código aberto no GitHub. \nQuer ajudar? Clique aqui para acessar o repositório.
+Participação na Comunidade
+Se você estiver ativo, sua situação aparecerá no Discord/Steam.
 Mostrar
 A porcentagem mostra a vida precisa.
 Salão
-Se você ativar, seus amigos podem se unir - você não é autorizado.
-Ocultar ip
-Se ativado, a corda não aparecerá no console.
-Visualização da opção
-Se ativado, você não precisa proteger a chave para selecionar itens; Pressione o botão novamente para cancelar.
-Use sombras estreitas para dar mais profundidade nos cantos e nas regiões estreitas, os modelos.
-Fornece o ambiente mais profundo em um preço de alto desempenho.
-Com base na intensidade da luz, oferece mais iluminação privada aplicando brilho.
+Se ativado, seus amigos podem se juntar – você não é obrigado.
+Ocultar IP
+Se ativado, o IP não aparecerá no console.
+Visualização da Opção
+Se ativado, você não precisa manter a tecla pressionada para selecionar itens; pressione o botão novamente para cancelar.
+Use sombras estreitas para dar mais profundidade em cantos e regiões apertadas nos modelos.
+Fornece um ambiente mais profundo ao custo de alto desempenho.
+Com base na intensidade da luz, oferece iluminação mais realista aplicando brilho.
 Opção para ver legendas em anúncios Cassie.
-Quando você nasce no foco do jogo - flas para os -socs.
-Linhas de amolecimento e elimina distorções visuais.
-Para impedir que a tela "da tela baixada", sincronize o quadro do jogo com a velocidade do quadro da tela.
-Tecidos previstos, como orifícios de bala ou balanço de sangue.
+Quando você nasce no foco do jogo – flash para os SCPs.
+Suaviza linhas e elimina distorções visuais.
+Para impedir o "rasgo de tela", sincronize o quadro do jogo com a taxa de atualização da tela.
+Efeitos previstos, como buracos de bala ou respingos de sangue.
 Dark Humble
-Ligue para mudar coisas específicas para assuntos sombrios.
+Ative para alterar elementos específicos para temas escuros.
