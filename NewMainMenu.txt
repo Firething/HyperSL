@@ -4,17 +4,17 @@ Oportunidades
 Sair
 Mídia
 Internet
-Um favorito
-O funcionário
+Um Favorito
+O Funcionário
 Histórico
 Amigos
-Encontre o servidor
-Crie o servidor
+Encontre o Servidor
+Crie o Servidor
 Reconectar
-Conexão automática
-Para saltar
-Escondendo jogo vazio
-Esconder o jogo perfeito
+Conexão Automática
+Para Saltar
+Escondendo Jogo Vazio
+Esconder Jogo Perfeito
 S/ Whitelist
 Vídeo
 Soar
@@ -22,80 +22,80 @@ Controlar
 Brinquedo
 O segundo
 A estrada
-A tela inteira é única
-No limite
-Janela estendida
+A Tela Inteira É Única
+No Limite
+Janela Estendida
 Janela
-Sincronização vertical
+Sincronização Vertical
 Limite FPS
 Para
-A qualidade da construção
-A declaração
+A Qualidade da Construção
+A Declaração
 Olhar
-A qualidade da sombra
-Distância da sombra
+A Qualidade da Sombra
+Distância da Sombra
 Cidade
-Melhorando a cor
+Melhorando a Cor
 Siddhakali
 Luz
-O caderno mais importante
-Efeito sonoro
-Bolo de voz
+O Caderno Mais Importante
+Efeito Sonoro
+Bolo de Voz
 Balmusico
 Elenco
-O tema do menu
-Uma rápida derrota das costas.
+O Tema do Menu
+Uma Rápida Derrota das Costas.
 Cabeça
 Intercâmbio
-Fornece saúde precisa
-O estado da deficiência
+Fornece Saúde Precisa
+O Estado da Deficiência
 LOBS PÚBLICAS
 Intercâmbio
-SCP -079 - Modo opcional
+SCP-079 - Modo Opcional
 Processando SCP-079-Post
 Língua
-O homem principal
+O Homem Principal
 Conectar
 Volte
 Essa alteração é necessária no menu.
 Sim
 Não
-Você quer ir
-A solução de tela
-Ocultar ip
-Bem -vindo novamente, {user}!
+Você quer ir...
+A Solução de Tela
+Ocultar IP
+Bem-vindo novamente, {user}!
 Empréstimos
 Certificado
-Faça login nos servidores centrais ...
-<Color=Green> Link estabelecido</color>
-<Color=red> dano de conexão (verifique os detalhes do console)</color>
-<Color=red> vapor de autenticação (verifique os detalhes no console)</color>
-<Color=red> danos inválidos à autenticação (verifique se os detalhes)</color>
+Faça login nos servidores centrais...
+<Color=Green>Link estabelecido</color>
+<Color=red>Dano de conexão (verifique os detalhes do console)</color>
+<Color=red>Vapor de autenticação (verifique os detalhes no console)</color>
+<Color=red>Danos inválidos à autenticação (verifique se os detalhes...)</color>
 Desabilitado
-Segundo (s)
-Intervalo de eliminação corporal
-Mostre o perfil do Steam
+Segundo(s)
+Intervalo de Eliminação Corporal
+Mostre o Perfil do Steam
 Ele permite que os jogadores vejam seu perfil a vapor clicando no ícone na lista de jogadores.
-Não siga (dnt)
+Não Siga (DNT)
 Proíbe o servidor de usar seus dados (endereço IP, ID de usuário, etc.) para fins de segurança do servidor.
 Gráfico da API
-Criar um servidor coincide imediatamente, o jogo não é mais compatível. > SCP: SL (Ex.: Terabit) \ n \ nkricue para os links abaixo para obter mais informações. Você pode procurar ajuda com nosso suporte técnico \ n (conexão com o servidor Discord que você pode encontrar no menu principal)
+Criar um servidor coincide imediatamente, o jogo não é mais compatível. SCP: SL (Ex.: Terabit) \nKricue para os links abaixo para obter mais informações. Você pode procurar ajuda com nosso suporte técnico \n (conexão com o servidor Discord que você pode encontrar no menu principal)
 Formativo
 Leia mais
 Servo
 Negativo
-Segundo (s)
+Segundo(s)
 Vamos jogar nosso jogo!
-Aviso da linha de trabalho no nascimento
+Aviso da Linha de Trabalho no Nascimento
 Atmosfera
 Luzes volumétricas
 Fã
 Legenda
 Instruções para uso
 Servo
-<Color=Red> PhotoservititiTibi Aviso: Leia antes de jogar! A exposição a alguns formulários, planos de fundo na tela ou reproduções de um computador podem causar ataques epiléticos a essas pessoas. Situações especiais podem causar sintomas epiléticos que nem são detectados por pessoas que não têm experiência em convulsões epilépticas ou epilepsia. \ NSE ou uma de sua família tem uma condição epilética, entre em contato com seu médico antes de jogar. Se você tiver algum dos seguintes sintomas ao reproduzir vídeos ou jogar, visão modificada, olhos, olhos e músculos, desorientação, qualquer movimento ou convulsões involuntárias, use as férias imediatamente e consulte seu médico antes de jogar novamente.
-Pressione cada botão para continuar
-Não mostre
+<Color=Red> PhotoservititiTibi Aviso: Leia antes de jogar! A exposição a alguns formulários, planos de fundo na tela ou reproduções de um computador podem causar ataques epiléticos a essas pessoas. Situações especiais podem causar sintomas epiléticos que nem são detectados por pessoas que não têm experiência em convulsões epilépticas ou epilepsia. \nou uma de sua família tem uma condição epilética, entre em contato com seu médico antes de jogar. Se você tiver algum dos seguintes sintomas ao reproduzir vídeos ou jogar, visão modificada, olhos, olhos e músculos, desorientação, qualquer movimento ou convulsões involuntárias, use as férias imediatamente e consulte seu médico antes de jogar novamente.
+Pressione Cada Botão para Continuar
+Não Mostre
 Continuar
 Informações do servidor
 Férias
