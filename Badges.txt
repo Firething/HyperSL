@@ -87,4 +87,3 @@ Cabeça do SCP para anti-Tags: SL
 Supervisor de Wiki em Northwood
 Chefe de Equipe do SCP: Figs
 SCP: Manutenção SL-SL API
-
