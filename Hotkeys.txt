@@ -1,41 +1,41 @@
 Marcação
-Crie um novo atalho
-As tags permitem atribuir os elementos às teclas para que você possa equipá -las sem abrir o inventário.
+Crie um Novo Atalho
+As tags permitem atribuir os elementos às teclas para que você possa equipá-las sem abrir o inventário.
 Mapa
-A arma principal
-Armas secundárias
+A Arma Principal
+Armas Secundárias
 Doutor
 Granada
 Nome
-A chave atribuída
-Olhe para
+A Chave Atribuída
+Olhe Para
 Ordem
-Prioridade para escolher um objeto
+Prioridade para Escolher um Objeto
 Isso permite determinar a localização inicial dos elementos na linha com base nos requisitos definidos pelo usuário.
 Escondido
-Ícone normal
+Ícone Normal
 Ícone
-A ordem dos objetos
+A Ordem dos Objetos
 A escolha é baseada na ordem dos elementos nos "parágrafos" acima mencionados.
 Reserva
 As opções dependem da sequência em homenagem.
 Não
-Melhor medicamento
+Melhor Medicamento
 Tente instalar o melhor título médico com base em sua saúde, propriedade ou circunstâncias.
-Lembre -se do passado
+Lembre-se Do Passado
 O pagamento do pagamento pode não atender quando outras acomodações escolherem outro órgão.
-Acesso à baga
+Acesso à Baga
 É uma prioridade para a porta mais próxima.
-Equipamento vazio
+Equipamento Vazio
 Você aumentará o dispositivo em vez de um dispositivo vazio.
-O que
+O quê?
 Incluindo
 Esta opção permite que você decida sobre o pedido em ordem. O filtro selecionado não prejudicará seu pedido ao avaliar seu pedido.
-Remova todos os links especiais
-Retornar escadas (contêm)
+Remova Todos os Links Especiais
+Retornar Escadas (contêm)
 Editado: [hotkey]
 O primeiro novo se tornou com
-Qualquer dispositivo
-Qualquer cartão
+Qualquer Dispositivo
+Qualquer Cartão
 Manchas
-Quaisquer itens SCP
+Quaisquer Itens SCP
