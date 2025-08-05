@@ -93,10 +93,9 @@ Fã
 Legenda
 Instruções para Uso
 Servo
-<Color=Red> PhotoservititiTibi Aviso: Leia antes de jogar! A exposição a alguns formulários, planos de fundo na tela ou reproduções de um computador podem causar ataques epiléticos a essas pessoas. Situações especiais podem causar sintomas epiléticos que nem são detectados por pessoas que não têm experiência em convulsões epilépticas ou epilepsia. \nou uma de sua família tem uma condição epilética, entre em contato com seu médico antes de jogar. Se você tiver algum dos seguintes sintomas ao reproduzir vídeos ou jogar, visão modificada, olhos, olhos e músculos, desorientação, qualquer movimento ou convulsões involuntárias, use as férias imediatamente e consulte seu médico antes de jogar novamente.
+<Color=Red> Aviso Fotossensível: Leia antes de jogar! A exposição a alguns formulários, planos de fundo na tela ou reproduções de um computador podem causar ataques epiléticos a essas pessoas. Situações especiais podem causar sintomas epiléticos que nem são detectados por pessoas que não têm experiência em convulsões epilépticas ou epilepsia. \nou uma de sua família tem uma condição epilética, entre em contato com seu médico antes de jogar. Se você tiver algum dos seguintes sintomas ao reproduzir vídeos ou jogar, visão modificada, olhos, olhos e músculos, desorientação, qualquer movimento ou convulsões involuntárias, use as férias imediatamente e consulte seu médico antes de jogar novamente.
 Pressione Cada Botão para Continuar
 Não Mostre
 Continuar
 Informações do servidor
 Férias
-
