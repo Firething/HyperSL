@@ -17,5 +17,3 @@ A próxima partida [summary_next_round_countdown] segundos.
 Os LCPs mataram [summary_scpfrags] pessoas.
 FLAMINGO VENCE
 Todas as outras equipes terminaram. Toda a vitória queimando foi recebida.
-
-
