@@ -7,22 +7,22 @@ Ambicioso
 Cana
 Aleijado
 Expulsar
-Uma sombra de sombra
-Estilos elegantes da moda
+Uma Sombra de Sombra
+Estilos Elegantes da Moda
 Declarar
-Um pedaço de janela
-A maneira de mostrar
-Número de FPSs
-Anteriormentelilla
+Um Pedaço de Janela
+A Maneira de Mostrar
+Número de FPS
+Anteriormente
 Sinônimo
 Promoção
-O tipo de estrutura
+O Tipo de Estrutura
 Brilhar
-Configuração. Cortina
+Configuração. Cortina.
 Forma
 As mudanças são feitas após reiniciar o jogo.
 Inacessível, porque a API gráfica foi forçada através dos parâmetros iniciais.
-Limite sangrento
-O limite da bala
+Limite Sangrento
+O Limite da Bala
 Agulha
-SCP-939 Turbidez visual
+SCP-939 Turbidez Visual
