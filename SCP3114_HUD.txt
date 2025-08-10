@@ -1,16 +1,16 @@
 Agora você se esconde como [name].
-Você não pode atacar esconder -se. Deixe [key] para se esconder da punição.
+Você não pode atacar esconder-se. Deixe [key] para se esconder da punição.
 No caso de elementos de seguro como o STP-3114, não podem ser usados.
 Ao viver, pressione [key] para se comunicar com as pessoas.
 O corpo já foi usado como pele.
 Você já esteve escondido. Pressione [key] para remover a ocultação atual.
 Somente o corpo humano pode ser usado como um obstáculo.
-Esses ossos de pilha discretos provavelmente são <b> [nome] o remanescente de </b>.
-Você pode usar seu corpo para escondê -lo, por exemplo [rolo].
+Esses ossos de pilha discretos provavelmente são <b>[name] o remanescente de</b>.
+Você pode usar seu corpo para escondê-lo, por exemplo [role].
 Esconder
-Melhoria da elegância
+Melhoria da Elegância
 Ossos na cabine: Seu nome e ID serão ocultos. Você está na tela em branco e o mundo é sua memória. Quando você esconde sua pessoa, sua força principal permitirá a segurança - mas a falta de grandes músculos impede o uso de coisas boas.
 Pegue suas mãos: garanta um leve ataque que reduz gradualmente a vida de todos que atingem gradualmente. Em cálcio, as camadas microscópicas da pele revisam, em certa medida, melhorando as habilidades e restaura uma pequena quantidade de tratamento.
 Higiene: Segure o pescoço e a vida. Olhe em seus olhos quando ficar doente. Suas vidas são mais leves, levou apenas alguns segundos. Pode parar de atacar.
-Sua pele sob: a jaqueta charmosa e quente (pele) ao se misturar com cadáveres. Bem -vindo ao calor e imite a capacidade de salvar algumas coisas, veja com um "vestido de carne". Clique no botão de exclusão repentina!
+Sua pele sob: a jaqueta charmosa e quente (pele) ao se misturar com cadáveres. Bem-vindo ao calor e imite a capacidade de salvar algumas coisas, veja com um "vestido de carne". Clique no botão de exclusão repentina!
 Pressione e segure [key] para desligar a punição.
