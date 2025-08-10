@@ -1,45 +1,45 @@
-<Quantidade>x</Quantidade>
-<Visite>Nível [Tiger]</Visite>
-<Exp>[atual] / [Next]</Exp>
-<NívelMáximo>pegar</NívelMáximo>
-<Câmara>de comércio</Câmara>
-<VáPara>[câmera] ([<Custo>custo</Custo>])</VáPara>
-<Auxiliar>Inadequado</Auxiliar>
-<ETA>[tempo]</ETA>
-<Nível>Precisa de um nível maior</Nível>
-<Câmera>Inválida</Câmera>
-<Visite>Aqueles que são negados</Visite>
-<Porta status="aberta">([<Custo>custo</Custo>])</Porta>
-<Porta status="fechada">([<Custo>custo</Custo>])</Porta>
-<Porta status="bloqueio">([<Custo>custo</Custo>])</Porta>
-<Ação>Abra a fechadura</Ação>
-<Comando>reiniciar</Comando>
-<Comando>ajuda</Comando>
-<Alerta>⚠️ Você está sob ataque!</Alerta>
-<Ação>Libere todas as portas</Ação>
-<Ação>Abra o cartão de instalação</Ação>
-<Encerramento>encerramento</Encerramento>
-<Área>Lugares que contêm luz</Área>
-<Área>Área Chongyuan</Área>
-<Área>Área de entrada</Área>
-<Item>erva</Item>
-<Blecaut>([<Custo>custo</Custo>])</Blecaut>
-<Blecaut status="indisponível">não está disponível nesta sala</Blecaut>
-<Restrição>Ao mesmo tempo, restrições de madeira</Restrição>
-<Item>Quartão</Item>
-<Ação>Enviar elevador ([<Custo>custo</Custo>])</Ação>
-<Ação>Incluir ([<Custo>custo</Custo>])</Ação>
-<Comando>Reiniciar</Comando>
-<Alerta>Sem lacuna de prisão</Alerta>
-<Exibição>Localização da exibição ([<Custo>custo</Custo>])</Exibição>
-<Limite>O limite de instruções direcionais</Limite>
-<Aviso>Não mude a câmera</Aviso>
-<Status>perda</Status>
-<Conexão>(a: [tempo]s)</Conexão>
-<PortaEspecial>TSLA GATE ([<Custo>custo</Custo>])</PortaEspecial>
-<Tesla>Aktivar carregamento</Tesla>
-<Acesso>Nível de acesso <Camada>$[camada]$</Camada> - Lock</Acesso>
-<Ajuda>energética - imit <Rose>$[limite]$</Rose></Ajuda>
+<amount>x
+Nível [tier]
+EXP [current]/[next]
+NÍVEL MÁXIMO PEGAR
+CÂMARA DE COMÉRCIO
+VÁ PARA: [camera] (CUSTO [cost])
+AUXILIAR INADEQUADO
+ETA: [time]
+PRECISA DE UM NÍVEL MAIOR
+CÂMERA INVÁLIDA
+VISITE AQUELES QUE SÃO NEGADOS
+PORTA STATUS: ABERTA (CUSTO [cost])
+PORTA STATUS: FECHADA (CUSTO [cost])
+PORTA STATUS: BLOQUEIO (CUSTO [cost])
+ABRA A FECHADURA
+COMANDO - REINICIAR
+COMANDO - AJUDA
+ALERTA ⚠️: VOCÊ ESTÁ SOB ATAQUE!
+AÇÃO - LIBERE TODAS AS PORTAS
+AÇÃO - ABRA O CARTÃO DE INSTALAÇÃO
+ENCERRAMENTO
+LUGARES QUE CONTÊM LUZ
+ÁREA CHONGYUAN
+ÁREA DE ENTRADA
+ITEM - ERVA
+BLECAUT: (CUSTO [cost])
+BLECAUT STATUS: INDISPONÍVEL - NÃO ESTÁ DISPONÍVEL NESTA SALA
+AO MESMO TEMPO, RESTRIÇÕES DE MADEIRA
+ITEM - QUARTÃO
+ENVIAR ELEVADOR (CUSTO [cost])
+INCLUIR (CUSTO [cost])
+COMANDO - REINICIAR 
+ALERTA: SEM LACUNA DE PRISÃO
+LOCALIZAÇÃO DA EXIBIÇÃO (CUSTO [cost])
+O LIMITE DE INSTRUÇÕES DIRECIONAIS
+NÃO MUDE A CÂMERA
+STATUS - PERDA
+CONEXÃO: [time]s)
+TESLA GATE (CUSTO [cost])
+AKTIVAR CARREGAMENTO
+NÍVEL DE ACESSO [tier]$ - UNLOCK
+<Ajuda>energética - imit <Rose>[limite]$</Rose></Ajuda>
 <Comando>$blencut$: pressione a tecla <Key>$[key]$</Key> para eliminar a luz da sala.</Comando>
 <Status>$blecaut$ capacidade <Num>$[número]$</Num> subiu para $.</Status>
 <Comando>$Fechar$: pressione a tecla <Key>$[key]$</Key> para bloquear temporariamente todas as portas da sala.</Comando>
@@ -89,3 +89,4 @@
 <Nota>Os sensores de vaca descobriram outros destinos que permanecem na mesma área por um longo tempo.</Nota>
 <Aviso>Escolha pelo menos um filtro para continuar!</Aviso>
 <Status>Atualmente, o $Lock$ está $1 [chave], clique em uma porta específica para um bloqueio temporário.</Status>
+
