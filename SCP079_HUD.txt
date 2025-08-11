@@ -39,54 +39,53 @@ CONEXÃO: [time]s)
 TESLA GATE (CUSTO [cost])
 AKTIVAR CARREGAMENTO
 NÍVEL DE ACESSO [tier]$ - UNLOCK
-<Ajuda>energética - imit <Rose>[limite]$</Rose></Ajuda>
-<Comando>$blencut$: pressione a tecla <Key>$[key]$</Key> para eliminar a luz da sala.</Comando>
-<Status>$blecaut$ capacidade <Num>$[número]$</Num> subiu para $.</Status>
-<Comando>$Fechar$: pressione a tecla <Key>$[key]$</Key> para bloquear temporariamente todas as portas da sala.</Comando>
-<SUM>Equipe de Adminsititação de App</SUM>
-<SUM>Exp - Auxílio acabamento <User>[Ceyer]</User></SUM>
-<SUM>[Uma soma] indica exp <Função>[função]</Função></SUM>
-<SUM>Exp - Seja correspondente a demissões enviadas por fumar <User>[Roller]</User></SUM>
-<SUM>frase - ajude a perseguição de aliados</SUM>
-<SUM>Exp - Proteger aliados</SUM>
-<SUM>Exp - Prevenção Micro H.I.D.</SUM>
-<Status>Força positiva da sala</Status>
-<Área>Blecaut ([<Custo>custo</Custo>])</Área>
-<Nota>$Blecaut$ ificant - Instale $ próximo à área mencionada perto do mapa.</Nota>
-<Área>Blecaut Re-Recharga Área</Área>
-<Status>Já ativo</Status>
-<Status>A fumaça nesta área não está disponível</Status>
-<Info>Número total de formas de vida</Info>
-<Info>meta</Info>
-<Info>A exceção do SCP</Info>
-<Info>civil</Info>
-<Info>exército</Info>
-<Info>alto-falante</Info>
-<Aviso>Acesso ao elevador errado</Aviso>
-<Nota>O SCP-079 não tem uma batalha ou movimento direto. Em vez disso, você vê o mundo através de câmeras de segurança que pode ver em qualquer lugar. Todas as habilidades disponíveis aparecem no canto superior esquerdo da interface.</Nota>
-<Nota>Quase ilegal: três geradores são organizados em grande distração. Se tudo estiver ligado, você pode reiniciá-lo no seu telefone. O gerador possui uma sequência de números traseiros que podem ser interrompidos clicando no botão de cancelamento em qualquer gerador.</Nota>
-<Nota>Abordagem ilimitada: você pode gerenciar muitos sistemas de instalação para ajudar seus membros do SCPS. O canto superior esquerdo da tela mostra quais habilidades estão disponíveis. Essas habilidades são energia auxiliar (EA), recuperando com o tempo.</Nota>
-<Nota>No treinamento -Surage com casos de homicídio ou executar operações úteis para outros SCPs fornecerá um melhor nível de acesso. Cada novo nível oferece mais EAS e novas habilidades.</Nota>
-<Nota>Observação: isso está em toda parte e não garante que você tenha uma perspectiva única em todos os lugares. Você pode apontar lugares, pessoas e interesses que permitem ajudar o Holocausto.</Nota>
-<Sensor>$cessação$ disponível neste momento - $selecione uma categoria/região na instalação$ <Cartões>$deleção</Cartões> periodicamente para descobrir o que permanece ainda disponível</Sensor>
-<Regeneração>Energia de energia</Regeneração>
-<Regeneração>Reduzir a energia para ([<Custo>caro</Custo>])</Regeneração>
-<Status>Trava ativa da porta</Status>
-<Status>Dinâmica usada</Status>
-<Status>Detenção durante este processo</Status>
-<Status>brecha</Status>
-<Ação>Voltar ao cartão</Ação>
-<Sensor>Sensor de dano - [cnt] espaço(s)</Sensor>
-<Área>Selecionada: [CNT]</Área>
-<Ação>Escolha na área de varredura</Ação>
-<Resultado>Sensor: Não é possível encontrar $imobiliário$.</Resultado>
-<Resultado>Tente novamente em alguns segundos em [<Equipe>equipe</Equipe>]...</Resultado>
-<Resultado>Sensor: <Valor>$[roll]$</Valor> está em "<Câmera>$[camema_name]$</Câmera>" ([área]).</Resultado>
-<Teste>Próximo teste: [tempo] com</Teste>
-<Ação>Scan...</Ação>
-<Ordem>A ordem de suspensão</Ordem>
-<Ação>Escolha uma aula para descoberta</Ação>
-<Nota>Os sensores de vaca descobriram outros destinos que permanecem na mesma área por um longo tempo.</Nota>
-<Aviso>Escolha pelo menos um filtro para continuar!</Aviso>
-<Status>Atualmente, o $Lock$ está $1 [chave], clique em uma porta específica para um bloqueio temporário.</Status>
-
+Limite $ENERGÉTICO$ ao $[limit]$
+$BLECAUT$: Pressione a tecla $[key]$ para eliminar a luz da sala.
+$BLECAUT$ capacidade $[number]$ subiu para.
+$FECHAR$: Pressione a tecla $[key]$ para bloquear temporariamente todas as portas da sala.
++[amount] EXP - Comando de Controle</SUM>
++[amount] EXP - Auxílio acabamento [role]>
++[amount] EXP - Indica [role]
++[amount] EXP - Seja correspondente a demissões enviadas por fumar [role]
++[amount] EXP - Ajude a perseguição de aliados
++[amount] EXP - Proteger aliados
++[amount] EXP - Prevenção Micro H.I.D.
+FORÇA POSITIVA DA SALA
+BLECAUT ÁREA (CUSTO [cost])
+$BLECAUT ÁREA$ está disponível -  além das pontas da área no $Cartão de Ajuste$.
+BLECAUT ÁREA RE-RECHARGA
+JÁ ATIVO
+A FUMAÇA NESTA ÁREA NÃO ESTÁ DISPONÍVEL
+NÚMERO TOTAL DE FORMAS DE VIDA
+META
+A EXCEÇÃO DO SCP
+CIVIL
+EXÉRCITO
+ALTO-FALANTE
+ACESSO AO ELEVADOR ERRADO
+O SCP-079 não tem uma batalha ou movimento direto. Em vez disso, você vê o mundo através de câmeras de segurança que pode ver em qualquer lugar. Todas as habilidades disponíveis aparecem no canto superior esquerdo da interface.
+Quase Ilegal: três geradores são organizados em grande distração. Se tudo estiver ligado, você pode reiniciá-lo no seu telefone. O gerador possui uma sequência de números traseiros que podem ser interrompidos clicando no botão de cancelamento em qualquer gerador.
+Abordagem Ilimitada: você pode gerenciar muitos sistemas de instalação para ajudar seus membros do SCPS. O canto superior esquerdo da tela mostra quais habilidades estão disponíveis. Essas habilidades são energia auxiliar (EA), recuperando com o tempo.
+No Treinamento:Surge com casos de homicídio ou executar operações úteis para outros SCPs fornecerá um melhor nível de acesso. Cada novo nível oferece mais EAs e novas habilidades.
+Observação: isso está em toda parte e não garante que você tenha uma perspectiva única em todos os lugares. Você pode apontar lugares, pessoas e interesses que permitem ajudar o Holocausto.
+$CESSAÇÃO$ disponível neste momento - selecione uma categoria/região no $Cartão de Ajuste$, deleção periodicamente para descobrir o que permanece ainda disponível
+REGENERAÇÃO ENERGIA DE ENERGIA
+REGENERAÇÃO REDUZIR A ENERGIA PARA ([precentage])
+TRAVA ATIVA DA PORTA
+DINÂMICA USADA
+DETENÇÃO DURANTE ESTE PROCESSO
+CESSAÇÃO
+VOLTAR AO CARTÃO
+CESSAÇÃO - [cnt] espaço(s)
+ÁREAS SELECIONADAS: [cnt]
+ESCOLHA NA ÁREA DA VARREDURA
+RESULTADO CESSAÇÃO: Não é possível encontrar $imobiliário$.
+Tente novamente em alguns segundos em [time]...
+RESULTADO CESSAÇÃO: $[role]$ está em '$[camera_name]$' ([zone]).
+PRÓXIMO TESTE: [time] com.
+SCAN...
+A ORDEM DE SUSPENSÃO
+ESCOLHA UMA AULA PARA DESCOBERTA
+Os Sensores de Vaca descobriram outros destinos que permanecem na mesma área por um longo tempo.
+Escolha pelo menos um filtro para continuar!
+Atualmente, o $Lock$ está $1 [key], clique em uma porta específica para um bloqueio temporário.
